@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fisherman's Toast
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>544</td>
+    <td>546</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1147</td>
+    <td>1148</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>83</td>
+    <td>87</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br />
+      Shikanoin Heizou (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4042 (rate -57)</td>
+    <td>4507 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4100820 (rate -55)</td>
+    <td>4468027 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (30%)<br />Daily Activity: 1080 (27%)<br />Events: 800
-      (20%)<br />Mail: 420 (11%)<br />Quests: 260 (6%)<br />Adventure: 180
-      (4%)<br />Other: 102 (2%)<br />
+      Spiral Abyss: 1200 (27%)<br />Daily Activity: 1140 (26%)<br />Events: 1120
+      (25%)<br />Mail: 420 (9%)<br />Quests: 320 (7%)<br />Adventure: 185
+      (4%)<br />Other: 122 (2%)<br />
     </td>
   </tr>
 </table>
