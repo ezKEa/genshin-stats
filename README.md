@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>550</td>
+    <td>551</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,6 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -318,17 +328,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (16)<br />
+      Shikanoin Heizou (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4831 (rate -48)</td>
+    <td>4941 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4782969 (rate -47)</td>
+    <td>5926093 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (29%)<br />Events: 1200 (25%)<br />Spiral Abyss: 1200
-      (25%)<br />Mail: 420 (9%)<br />Quests: 320 (7%)<br />Adventure: 189
+      Daily Activity: 1440 (30%)<br />Events: 1200 (25%)<br />Spiral Abyss: 1200
+      (25%)<br />Mail: 470 (9%)<br />Quests: 320 (6%)<br />Adventure: 189
       (3%)<br />Other: 122 (2%)<br />
     </td>
   </tr>
