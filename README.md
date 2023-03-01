@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>555</td>
+    <td>556</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Hu Tao (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Xiangling (16)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (16)<br /><img
+      Xingqiu (16)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (16)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Thoma (16)<br />
+      Hu Tao (16)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>600 (rate -88)</td>
+    <td>650 (rate -87)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>28436 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 600 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
-      (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Mail: 600 (93%)<br />Daily Activity: 30 (4%)<br />Quests: 20 (3%)<br />Events:
+      0 (0%)<br />Adventure: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
