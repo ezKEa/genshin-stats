@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>592</td>
+    <td>593</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>557</td>
+    <td>558</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>699</td>
+    <td>709</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -313,44 +313,44 @@
         ,
         height="18"
       />
-      Bennett (12)<br /><img
+      Bennett (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (12)<br /><img
+      Thoma (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Xiangling (12)<br /><img
+      Xiangling (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (12)<br />
+      Xingqiu (15)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Yelan (52)<br />
+      Hu Tao (58)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Hu Tao (181029)<br />
+      Shikanoin Heizou (212416)<br />
     </td>
   </tr>
   <tr>
@@ -361,7 +361,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (74937)<br />
+      Shikanoin Heizou (114938)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Bennett (64)<br />
+      Bennett (108)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Yelan (138)<br />
+      Yelan (215)<br />
     </td>
   </tr>
 </table>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1440 (rate -72)</td>
+    <td>1525 (rate -70)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>683894 (rate -89)</td>
+    <td>747635 (rate -88)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (46%)<br />Spiral Abyss: 600 (42%)<br />Daily Activity: 120
-      (9%)<br />Events: 40 (2%)<br />Quests: 20 (1%)<br />Adventure: 0 (0%)<br />Other:
+      Mail: 660 (44%)<br />Spiral Abyss: 600 (40%)<br />Daily Activity: 180
+      (12%)<br />Events: 40 (2%)<br />Quests: 40 (2%)<br />Adventure: 5 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
