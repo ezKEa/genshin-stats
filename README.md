@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>558</td>
+    <td>559</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,6 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -323,12 +328,7 @@
         ,
         height="18"
       />
-      Xiangling (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br />
+      Xiangling (15)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1525 (rate -70)</td>
+    <td>1835 (rate -64)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>747635 (rate -88)</td>
+    <td>1096539 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (44%)<br />Spiral Abyss: 600 (40%)<br />Daily Activity: 180
-      (12%)<br />Events: 40 (2%)<br />Quests: 40 (2%)<br />Adventure: 5 (0%)<br />Other:
+      Mail: 680 (38%)<br />Spiral Abyss: 600 (33%)<br />Events: 270 (14%)<br />Daily
+      Activity: 240 (13%)<br />Quests: 40 (2%)<br />Adventure: 5 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
