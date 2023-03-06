@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>559</td>
+    <td>560</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Xingqiu (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+      Shikanoin Heizou (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Thoma (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xiangling (15)<br />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1835 (rate -64)</td>
+    <td>1985 (rate -61)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1096539 (rate -83)</td>
+    <td>1207327 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (38%)<br />Spiral Abyss: 600 (33%)<br />Events: 270 (14%)<br />Daily
-      Activity: 240 (13%)<br />Quests: 40 (2%)<br />Adventure: 5 (0%)<br />Other:
+      Mail: 680 (35%)<br />Spiral Abyss: 600 (30%)<br />Events: 360 (18%)<br />Daily
+      Activity: 300 (15%)<br />Quests: 40 (2%)<br />Adventure: 5 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
