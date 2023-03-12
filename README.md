@@ -8,21 +8,21 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>565</td>
+    <td>566</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,6 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -318,17 +328,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (15)<br />
+      Kaedehara Kazuha (15)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2935 (rate -43)</td>
+    <td>3015 (rate -42)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2279489 (rate -64)</td>
+    <td>2320576 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 980 (34%)<br />Mail: 680 (24%)<br />Daily Activity: 600 (20%)<br />Spiral
-      Abyss: 600 (20%)<br />Quests: 70 (2%)<br />Adventure: 5 (0%)<br />Other: 0
+      Events: 980 (33%)<br />Mail: 700 (24%)<br />Daily Activity: 660 (22%)<br />Spiral
+      Abyss: 600 (19%)<br />Quests: 70 (2%)<br />Adventure: 5 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
