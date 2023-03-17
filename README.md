@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>568</td>
+    <td>569</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,6 +309,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
@@ -318,17 +328,7 @@
         ,
         height="18"
       />
-      Xiangling (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (15)<br />
+      Xiangling (15)<br />
     </td>
   </tr>
   <tr>
