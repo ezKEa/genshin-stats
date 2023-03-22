@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>593</td>
+    <td>594</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>571</td>
+    <td>572</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>207</td>
+    <td>208</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1648</td>
+    <td>1649</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1148</td>
+    <td>1149</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -242,7 +242,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>92.2%</td>
+          <td>92.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -291,44 +291,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>19</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-2</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>33</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Xiangling (9)<br /><img
+      Xiangling (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (9)<br /><img
+      Xingqiu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (9)<br />
+      Shikanoin Heizou (14)<br />
     </td>
   </tr>
   <tr>
@@ -339,29 +339,29 @@
         ,
         height="18"
       />
-      Hu Tao (42)<br />
+      Hu Tao (50)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (157638)<br />
+      Hu Tao (190129)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Bennett (56758)<br />
+      Kaedehara Kazuha (132229)<br />
     </td>
   </tr>
   <tr>
@@ -372,18 +372,18 @@
         ,
         height="18"
       />
-      Bennett (37)<br />
+      Bennett (77)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Bennett (81)<br />
+      Yelan (231)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3245 (rate -37)</td>
+    <td>4229 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3824077 (rate -40)</td>
+    <td>4471784 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 980 (31%)<br />Spiral Abyss: 750 (23%)<br />Daily Activity: 720
-      (22%)<br />Mail: 720 (22%)<br />Quests: 70 (2%)<br />Adventure: 5 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 1440 (35%)<br />Spiral Abyss: 1200 (29%)<br />Daily Activity: 780
+      (18%)<br />Mail: 720 (17%)<br />Quests: 70 (1%)<br />Adventure: 17 (0%)<br />Other:
+      2 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1811,6 +1811,82 @@
     </td>
   </tr>
 </table>
+<h3>Barbara</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Noblesse Oblige<br />1 x Viridescent Venerer<br />2 x Emblem of
+            Severed Fate<br />1 x Thundering Fury<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Thrilling Tales of Dragon Slayers</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Jean</h3>
 <table>
   <tr>
@@ -2031,82 +2107,6 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Barbara</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Noblesse Oblige<br />1 x Viridescent Venerer<br />1 x Thundering
-            Fury<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Thrilling Tales of Dragon Slayers</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
