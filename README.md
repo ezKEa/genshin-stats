@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>594</td>
+    <td>595</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>572</td>
+    <td>573</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1149</td>
+    <td>1151</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>64.0%</td>
+          <td>65.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Thoma (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (14)<br />
+      Thoma (14)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4229 (rate -19)</td>
+    <td>4304 (rate -17)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4471784 (rate -30)</td>
+    <td>5093209 (rate -21)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1440 (35%)<br />Spiral Abyss: 1200 (29%)<br />Daily Activity: 780
-      (18%)<br />Mail: 720 (17%)<br />Quests: 70 (1%)<br />Adventure: 17 (0%)<br />Other:
+      Events: 1440 (34%)<br />Spiral Abyss: 1200 (28%)<br />Daily Activity: 840
+      (20%)<br />Mail: 720 (17%)<br />Quests: 70 (1%)<br />Adventure: 32 (0%)<br />Other:
       2 (0%)<br />
     </td>
   </tr>
