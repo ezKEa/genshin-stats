@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>584</td>
+    <td>585</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1151</td>
+    <td>1152</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -319,11 +319,11 @@
         height="18"
       />
       Bennett (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (13)<br /><img
+      Xiangling (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2021 (rate -58)</td>
+    <td>2086 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5337314 (rate -1)</td>
+    <td>5927326 (rate 9)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (30%)<br />Events: 570 (29%)<br />Mail: 420 (21%)<br />Daily
-      Activity: 300 (15%)<br />Quests: 80 (3%)<br />Adventure: 51 (2%)<br />Other:
+      Spiral Abyss: 600 (29%)<br />Events: 570 (28%)<br />Mail: 420 (21%)<br />Daily
+      Activity: 360 (17%)<br />Quests: 80 (3%)<br />Adventure: 56 (2%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
