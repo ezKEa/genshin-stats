@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>585</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>709</td>
+    <td>719</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,11 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yelan (13)<br /><img
+      Kaedehara Kazuha (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -324,11 +324,11 @@
         height="18"
       />
       Xiangling (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (13)<br />
+      Yelan (13)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2086 (rate -56)</td>
+    <td>2806 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5927326 (rate 9)</td>
+    <td>6510746 (rate 20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (29%)<br />Events: 570 (28%)<br />Mail: 420 (21%)<br />Daily
-      Activity: 360 (17%)<br />Quests: 80 (3%)<br />Adventure: 56 (2%)<br />Other:
+      Mail: 1040 (38%)<br />Events: 610 (22%)<br />Spiral Abyss: 600 (22%)<br />Daily
+      Activity: 420 (15%)<br />Quests: 80 (2%)<br />Adventure: 56 (1%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -887,7 +887,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
