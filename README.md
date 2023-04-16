@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>588</td>
+    <td>589</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>88</td>
+    <td>89</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (13)<br />
+      Kaedehara Kazuha (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (13)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3174 (rate -34)</td>
+    <td>3782 (rate -21)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9083479 (rate 67)</td>
+    <td>10277856 (rate 89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1100 (35%)<br />Events: 730 (23%)<br />Daily Activity: 600 (19%)<br />Spiral
-      Abyss: 600 (19%)<br />Quests: 80 (3%)<br />Adventure: 63 (1%)<br />Other:
-      1 (0%)<br />
+      Mail: 1100 (30%)<br />Events: 820 (22%)<br />Daily Activity: 660 (18%)<br />Spiral
+      Abyss: 600 (15%)<br />Adventure: 345 (9%)<br />Quests: 250 (6%)<br />Other:
+      7 (0%)<br />
     </td>
   </tr>
 </table>
