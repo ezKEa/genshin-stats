@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>595</td>
+    <td>596</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -319,27 +319,27 @@
         height="18"
       />
       Kaedehara Kazuha (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Xiangling (14)<br />
+      Xiangling (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (14)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Xiangling (42)<br />
+      Shikanoin Heizou (42)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5635 (rate 17)</td>
+    <td>5695 (rate 18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>16186688 (rate 198)</td>
+    <td>17209868 (rate 217)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Spiral Abyss: 1200 (22%)<br />Mail: 1120 (20%)<br />Events: 1030 (19%)<br />Daily
-      Activity: 960 (17%)<br />Adventure: 864 (15%)<br />Quests: 450 (7%)<br />Other:
+      Activity: 1020 (17%)<br />Adventure: 864 (15%)<br />Quests: 450 (7%)<br />Other:
       11 (0%)<br />
     </td>
   </tr>
