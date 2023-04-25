@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>598</td>
+    <td>599</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1719</td>
+    <td>1723</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1186</td>
+    <td>1187</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>364</td>
+    <td>365</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>729</td>
+    <td>739</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -324,6 +319,11 @@
         height="18"
       />
       Bennett (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6173 (rate 28)</td>
+    <td>6318 (rate 31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>18607102 (rate 243)</td>
+    <td>19730364 (rate 263)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (20%)<br />Daily Activity: 1140 (19%)<br />Mail: 1120
-      (19%)<br />Events: 1030 (16%)<br />Adventure: 882 (14%)<br />Quests: 450
-      (7%)<br />Other: 351 (5%)<br />
+      Daily Activity: 1200 (19%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 1120
+      (18%)<br />Events: 1030 (17%)<br />Adventure: 887 (14%)<br />Quests: 450
+      (7%)<br />Other: 431 (6%)<br />
     </td>
   </tr>
 </table>
