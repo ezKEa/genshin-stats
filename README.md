@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>603</td>
+    <td>604</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>42</td>
+    <td>43</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>739</td>
+    <td>741</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (20)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (20)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (20)<br /><img
+      Xingqiu (20)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (20)<br />
+      Shikanoin Heizou (20)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (20)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (20)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6558 (rate 36)</td>
+    <td>6618 (rate 37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>22096344 (rate 307)</td>
+    <td>22387460 (rate 312)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (22%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 1120
-      (18%)<br />Events: 1030 (16%)<br />Adventure: 887 (13%)<br />Quests: 450
+      Daily Activity: 1500 (23%)<br />Spiral Abyss: 1200 (19%)<br />Mail: 1120
+      (17%)<br />Events: 1030 (16%)<br />Adventure: 887 (13%)<br />Quests: 450
       (6%)<br />Other: 431 (6%)<br />
     </td>
   </tr>
