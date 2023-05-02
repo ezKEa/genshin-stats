@@ -307,27 +307,84 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (32)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (165864)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (142490)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (76)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (149)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
@@ -338,7 +395,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>629966 (rate -97)</td>
+    <td>1232581 (rate -94)</td>
   </tr>
   <tr>
     <td>Categories</td>
