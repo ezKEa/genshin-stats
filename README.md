@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>612</td>
+    <td>613</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1732</td>
+    <td>1734</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>93</td>
+    <td>94</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -309,26 +309,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (12)<br /><img
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2328 (rate -65)</td>
+    <td>2408 (rate -64)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6649394 (rate -70)</td>
+    <td>6716534 (rate -70)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 940 (41%)<br />Daily Activity: 600 (26%)<br />Spiral Abyss: 600
-      (26%)<br />Adventure: 68 (3%)<br />Quests: 60 (3%)<br />Events: 40 (1%)<br />Mail:
-      20 (0%)<br />
+      Other: 940 (40%)<br />Daily Activity: 660 (28%)<br />Spiral Abyss: 600
+      (25%)<br />Adventure: 68 (3%)<br />Quests: 60 (2%)<br />Events: 40 (1%)<br />Mail:
+      40 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1697,7 +1697,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
