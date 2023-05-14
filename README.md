@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>617</td>
+    <td>618</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,16 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -328,7 +318,17 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br />
+      Kaedehara Kazuha (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (15)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2470 (rate -63)</td>
+    <td>2830 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9303193 (rate -59)</td>
+    <td>9394964 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 940 (39%)<br />Daily Activity: 720 (30%)<br />Spiral Abyss: 600
-      (25%)<br />Adventure: 70 (2%)<br />Quests: 60 (2%)<br />Events: 40 (1%)<br />Mail:
+      Other: 940 (34%)<br />Daily Activity: 780 (28%)<br />Spiral Abyss: 600
+      (21%)<br />Mail: 340 (12%)<br />Adventure: 70 (2%)<br />Quests: 60 (2%)<br />Events:
       40 (1%)<br />
     </td>
   </tr>
