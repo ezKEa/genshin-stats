@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>613</td>
+    <td>626</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>619</td>
+    <td>621</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>286</td>
+    <td>295</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>234</td>
+    <td>250</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -63,27 +63,27 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1737</td>
+    <td>1785</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1190</td>
+    <td>1206</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>367</td>
+    <td>369</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>139</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>94</td>
+    <td>96</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>47</td>
+    <td>48</td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>72.0%</td>
+          <td>77.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -287,15 +287,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>69</td>
+    <td>70</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>23</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -307,102 +307,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (15)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (38)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (165864)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (199048)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (103)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (219)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2924 (rate -56)</td>
+    <td>4092 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>10234083 (rate -55)</td>
+    <td>12136047 (rate -46)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 970 (34%)<br />Daily Activity: 840 (29%)<br />Spiral Abyss: 600
-      (21%)<br />Mail: 340 (11%)<br />Adventure: 74 (2%)<br />Quests: 60 (2%)<br />Events:
-      40 (1%)<br />
+      Spiral Abyss: 1200 (30%)<br />Other: 982 (24%)<br />Daily Activity: 960
+      (24%)<br />Adventure: 460 (12%)<br />Mail: 340 (8%)<br />Quests: 110
+      (2%)<br />Events: 40 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1559,7 +1502,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
+          <td>
+            3 x Viridescent Venerer<br />1 x Noblesse Oblige<br />1 x Gilded
+            Dreams<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1930,7 +1876,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Gilded Dreams<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
