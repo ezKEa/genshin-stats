@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>621</td>
+    <td>622</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -307,43 +307,100 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (55)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (184251)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (95382)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (55)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (158)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4092 (rate -38)</td>
+    <td>4152 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>12136047 (rate -46)</td>
+    <td>13147488 (rate -42)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (30%)<br />Other: 982 (24%)<br />Daily Activity: 960
+      Spiral Abyss: 1200 (29%)<br />Daily Activity: 1020 (25%)<br />Other: 982
       (24%)<br />Adventure: 460 (12%)<br />Mail: 340 (8%)<br />Quests: 110
       (2%)<br />Events: 40 (0%)<br />
     </td>
