@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>627</td>
+    <td>628</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1207</td>
+    <td>1208</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -309,16 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
-        ,
-        height="18"
-      />
-      Thoma (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -328,7 +318,17 @@
         ,
         height="18"
       />
-      Xingqiu (12)<br />
+      Xingqiu (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4880 (rate -27)</td>
+    <td>5005 (rate -25)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>15964782 (rate -29)</td>
+    <td>17142895 (rate -24)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Other: 1405 (29%)<br />Daily Activity: 1260 (26%)<br />Spiral Abyss: 1200
-      (25%)<br />Adventure: 505 (11%)<br />Mail: 360 (7%)<br />Quests: 110
-      (2%)<br />Events: 40 (0%)<br />
+      Daily Activity: 1380 (28%)<br />Events: 1280 (26%)<br />Spiral Abyss: 1200
+      (24%)<br />Adventure: 510 (10%)<br />Mail: 360 (7%)<br />Other: 165
+      (3%)<br />Quests: 110 (2%)<br />
     </td>
   </tr>
 </table>
@@ -821,7 +821,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Noblesse Oblige<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
