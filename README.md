@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -291,7 +291,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>26</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -309,11 +309,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Thoma (12)<br /><img
+      Hu Tao (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
@@ -324,11 +324,11 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Thoma (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,18 +391,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5970 (rate -10)</td>
+    <td>6537 (rate -2)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>19496386 (rate -14)</td>
+    <td>20220300 (rate -11)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1620 (28%)<br />Events: 1320 (23%)<br />Spiral Abyss: 1200
-      (21%)<br />Mail: 1020 (17%)<br />Adventure: 534 (8%)<br />Other: 166
-      (2%)<br />Quests: 110 (1%)<br />
+      Events: 1740 (27%)<br />Daily Activity: 1680 (26%)<br />Spiral Abyss: 1200
+      (19%)<br />Mail: 1020 (16%)<br />Adventure: 541 (8%)<br />Other: 246
+      (3%)<br />Quests: 110 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1340,7 +1340,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Lavawalker<br /></td>
+          <td>
+            3 x Noblesse Oblige<br />1 x Lavawalker<br />1 x Bloodstained
+            Chivalry<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1413,7 +1416,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Thundering Fury<br />1 x Viridescent Venerer<br /></td>
+          <td>4 x Thundering Fury<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1751,7 +1754,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/a30be2add54bf6bdcf1bef9d9258d591.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/a4dc0b21a3542e53a685bd3e4d204a9c.png"
         />
       </p>
     </td>
@@ -1796,15 +1799,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Waster Greatsword</td>
+          <td>Serpent Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2253,7 +2256,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2628,6 +2631,83 @@
     </td>
   </tr>
 </table>
+<h3>Kirara</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/9a8ccc0b231874a94955b08f727bded1.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Gilded Dreams<br />1 x Desert Pavilion Chronicle<br />1 x
+            Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />1 x
+            Noblesse Oblige<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Yun Jin</h3>
 <table>
   <tr>
@@ -2667,7 +2747,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2744,7 +2824,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Gilded Dreams<br />1 x Bloodstained Chivalry<br /></td>
+          <td>3 x Gilded Dreams<br />1 x Bloodstained Chivalry<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2764,7 +2844,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2910,7 +2990,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2933,7 +3013,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/a4dc0b21a3542e53a685bd3e4d204a9c.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/a30be2add54bf6bdcf1bef9d9258d591.png"
         />
       </p>
     </td>
@@ -2975,15 +3055,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Serpent Spine</td>
+          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
