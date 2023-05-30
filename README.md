@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>628</td>
+    <td>629</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>632</td>
+    <td>633</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1791</td>
+    <td>1792</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -276,7 +276,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>767</td>
+    <td>772</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -309,16 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -328,7 +318,17 @@
         ,
         height="18"
       />
-      Thoma (12)<br />
+      Thoma (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (12)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6537 (rate -2)</td>
+    <td>6602 (rate -1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>20220300 (rate -11)</td>
+    <td>20294215 (rate -10)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1740 (27%)<br />Daily Activity: 1680 (26%)<br />Spiral Abyss: 1200
-      (19%)<br />Mail: 1020 (16%)<br />Adventure: 541 (8%)<br />Other: 246
+      Events: 1740 (27%)<br />Daily Activity: 1740 (27%)<br />Spiral Abyss: 1200
+      (19%)<br />Mail: 1020 (15%)<br />Adventure: 546 (8%)<br />Other: 246
       (3%)<br />Quests: 110 (1%)<br />
     </td>
   </tr>
@@ -962,7 +962,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1741,6 +1741,82 @@
     </td>
   </tr>
 </table>
+<h3>Barbara</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/2372dd988024d288d1a1bc00a852bb0b.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Noblesse Oblige<br />1 x Viridescent Venerer<br />2 x Emblem of
+            Severed Fate<br />1 x Thundering Fury<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Thrilling Tales of Dragon Slayers</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Beidou</h3>
 <table>
   <tr>
@@ -1817,20 +1893,20 @@
     </td>
   </tr>
 </table>
-<h3>Barbara</h3>
+<h3>Kirara</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/2372dd988024d288d1a1bc00a852bb0b.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/9a8ccc0b231874a94955b08f727bded1.png"
         />
       </p>
     </td>
@@ -1844,7 +1920,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Hydro</td>
+          <td>Dendro</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1852,17 +1928,18 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>6</td>
+          <td>0</td>
         </tr>
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Noblesse Oblige<br />1 x Viridescent Venerer<br />2 x Emblem of
-            Severed Fate<br />1 x Thundering Fury<br />
+            1 x Gilded Dreams<br />1 x Desert Pavilion Chronicle<br />1 x
+            Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />1 x
+            Noblesse Oblige<br />
           </td>
         </tr>
         <tr>
@@ -1875,11 +1952,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Thrilling Tales of Dragon Slayers</td>
+          <td>Favonius Sword</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1887,7 +1964,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2622,83 +2699,6 @@
         <tr>
           <td>Level</td>
           <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Kirara</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Momoka.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ub73qe/9a8ccc0b231874a94955b08f727bded1.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            1 x Gilded Dreams<br />1 x Desert Pavilion Chronicle<br />1 x
-            Shimenawa's Reminiscence<br />1 x Emblem of Severed Fate<br />1 x
-            Noblesse Oblige<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
