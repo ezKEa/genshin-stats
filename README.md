@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -22,7 +22,7 @@
         width="120px"
       />
       <br />
-      8000 x Mora
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>643</td>
+    <td>645</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -309,11 +309,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -328,7 +323,12 @@
         ,
         height="18"
       />
-      Xiangling (9)<br />
+      Xiangling (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (9)<br />
     </td>
   </tr>
   <tr>
@@ -391,17 +391,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1235 (rate -81)</td>
+    <td>1745 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3665305 (rate -83)</td>
+    <td>5893142 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (37%)<br />Events: 380 (31%)<br />Daily Activity: 360
-      (29%)<br />Adventure: 25 (2%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      Events: 600 (35%)<br />Daily Activity: 540 (31%)<br />Spiral Abyss: 450
+      (26%)<br />Other: 80 (4%)<br />Adventure: 55 (3%)<br />Mail: 20 (1%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
