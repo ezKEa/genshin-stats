@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Adventurer Rank</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
@@ -31,19 +31,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>658</td>
+    <td>703</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>672</td>
+    <td>731</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>303</td>
+    <td>341</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -62,34 +62,39 @@
     <td>181</td>
   </tr>
   <tr>
+    <td>hydroculi</td>
+    <td>52</td>
+  </tr>
+  <tr>
     <td>Common Chests Opened</td>
-    <td>1831</td>
+    <td>1866</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1232</td>
+    <td>1330</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>381</td>
+    <td>400</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>145</td>
+    <td>155</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>111</td>
+    <td>121</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>49</td>
+    <td>53</td>
   </tr>
 </table>
 
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>Fontaine</th>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
     <th>The Chasm</th>
@@ -100,6 +105,14 @@
     <th>Mondstadt</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -170,7 +183,19 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>85.0%</td>
+          <td>22.0%</td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>86.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -218,7 +243,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>91.0%</td>
+          <td>92.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,26 +301,26 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>817</td>
+    <td>889</td>
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
 <table>
   <tr>
     <td>Season</td>
-    <td>73</td>
+    <td>77</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>23</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -309,26 +334,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
         ,
         height="18"
       />
-      Bennett (13)<br /><img
+      Thoma (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Xiangling (13)<br /><img
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (13)<br />
+      Shikanoin Heizou (12)<br />
     </td>
   </tr>
   <tr>
@@ -339,40 +364,40 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (35)<br />
+      Shikanoin Heizou (30)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (151715)<br />
+      Hu Tao (173446)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (101234)<br />
+      Kaedehara Kazuha (82178)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (61)<br />
+      Bennett (61)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +408,7 @@
         ,
         height="18"
       />
-      Yelan (222)<br />
+      Yelan (117)<br />
     </td>
   </tr>
 </table>
@@ -391,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3196 (rate -39)</td>
+    <td>854 (rate -89)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3228426 (rate -73)</td>
+    <td>1047188 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1215 (39%)<br />Spiral Abyss: 600 (19%)<br />Mail: 600 (19%)<br />Quests:
-      430 (13%)<br />Daily Activity: 300 (9%)<br />Events: 40 (1%)<br />Other:
-      11 (0%)<br />
+      Spiral Abyss: 600 (71%)<br />Daily Activity: 180 (21%)<br />Adventure: 44
+      (5%)<br />Quests: 30 (3%)<br />Events: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -421,7 +446,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/7942c6e6b5ff4a26add11ffb88b50f1e.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/b916d07accffbf9f351321bd3df46f41.png"
         />
       </p>
     </td>
@@ -494,7 +519,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/b096539d11818ca004f8ac704bd2fb78.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/863c832cc71f3b5d02ac4ede4bd58691.png"
         />
       </p>
     </td>
@@ -569,7 +594,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c0b56c86fe2e044cb045f37c89dca7cb.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/51afa255d6a1bb3605bf6dffc52fbb5d.png"
         />
       </p>
     </td>
@@ -644,7 +669,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/98057e7fa1f71528a06e80372d75a300.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/6d25816b11d2b708e69fd7acdd0c8abc.png"
         />
       </p>
     </td>
@@ -717,7 +742,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/8d0bbb6f3b6271f3cdd1db14d47b9a8a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/76282f3f87ea9bf07dfbf4091121cb38.png"
         />
       </p>
     </td>
@@ -793,7 +818,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/85c4ad30336b94bb60fbaee98c3f9862.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f97716cd3121d6af5792f3d9c9ccc15d.png"
         />
       </p>
     </td>
@@ -866,7 +891,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/951933ab4ead3fb59bffd8615799a576.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4c03bdf52f776588fd9b5d5e59f27650.png"
         />
       </p>
     </td>
@@ -939,7 +964,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c992222ccfcbc04954ec931dfa943f0a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0ade904e2e855caa6e5a4baabd04467d.png"
         />
       </p>
     </td>
@@ -1015,7 +1040,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/2118d8620bd7d3953c61b070c7455efb.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1023dbe7abb27926117cd0b32bafe216.png"
         />
       </p>
     </td>
@@ -1037,7 +1062,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1069,7 +1094,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1088,7 +1113,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c2a6c43793f7ea305aeb7be8fe5ab330.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/24550378f92693f324ce016e2741ea01.png"
         />
       </p>
     </td>
@@ -1110,7 +1135,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1161,7 +1186,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/bf7c46f29634452846a273ba30104c5a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/04a31f12c494dee3df9a7219e890fde7.png"
         />
       </p>
     </td>
@@ -1234,7 +1259,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/b80a2e69a8911fc82f3b31f836457162.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/df1ffa639320dacadead1687cd00d8d3.png"
         />
       </p>
     </td>
@@ -1307,7 +1332,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/dafdd31d0c092e976e31e79eb2fe945a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/58bba01d36ff59d1b063c15d42e1c32a.png"
         />
       </p>
     </td>
@@ -1337,7 +1362,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Shimenawa's Reminiscence<br /></td>
+          <td>5 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1349,11 +1374,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hamayumi</td>
+          <td>Amos' Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -1380,7 +1405,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/ef392f1da0f456e47c814d8b09434f13.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f0387b1faba195e5b3a6ab445c382227.png"
         />
       </p>
     </td>
@@ -1453,7 +1478,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/84510e30e8a3d21b68fa283453fc7a18.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2bf38153d1c5f1f3eecd2fb3728381fc.png"
         />
       </p>
     </td>
@@ -1516,6 +1541,79 @@
     </td>
   </tr>
 </table>
+<h3>Nahida</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/06ba3d2261cc0a1636ec78778875431e.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Deepwood Memories<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Fragments</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>4</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Fischl</h3>
 <table>
   <tr>
@@ -1529,7 +1627,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/5e6f8af0932d9e45ff61d2b2b6366137.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/ef13068f3238c9320a508ecd98eb00b9.png"
         />
       </p>
     </td>
@@ -1602,7 +1700,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c8f20f0d7c1d810d48bda479cffcd5de.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
         />
       </p>
     </td>
@@ -1632,7 +1730,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Noblesse Oblige<br />1 x Emblem of Severed Fate<br /></td>
+          <td>3 x Noblesse Oblige<br />1 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1675,7 +1773,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/f43e13fd68af43a264bec769b1d39f4f.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/364dbb3fa5198e58037c89c229832c47.png"
         />
       </p>
     </td>
@@ -1751,7 +1849,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/db02ab54493b814893d01b7b304b1f7f.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/dbf4e0c9961ce13bb94209747577d60b.png"
         />
       </p>
     </td>
@@ -1781,7 +1879,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Wanderer's Troupe<br />2 x Noblesse Oblige<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1811,79 +1909,6 @@
     </td>
   </tr>
 </table>
-<h3>Nahida</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4e1ce60e8a555708df1d5646aa966d75.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Deepwood Memories<br />1 x Wanderer's Troupe<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Fragments</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>4</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Barbara</h3>
 <table>
   <tr>
@@ -1897,7 +1922,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/0a9a47f50930864f923d5c35876eadc5.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/5334f47e613e5f868b48b4d2f745620d.png"
         />
       </p>
     </td>
@@ -1973,7 +1998,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e9bc4ec52164552abc6380d7c81125b5.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/2af2991b119cd463a758c7e06b17b52e.png"
         />
       </p>
     </td>
@@ -2049,7 +2074,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/85c4ad30336b94bb60fbaee98c3f9862.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1eaf485057b0165dac1f9a44ac66437a.png"
         />
       </p>
     </td>
@@ -2080,8 +2105,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Desert Pavilion Chronicle<br />1 x Shimenawa's Reminiscence<br />1
-            x Emblem of Severed Fate<br />1 x Wanderer's Troupe<br />
+            3 x Shimenawa's Reminiscence<br />1 x Gladiator's Finale<br />1 x
+            Noblesse Oblige<br />
           </td>
         </tr>
         <tr>
@@ -2094,7 +2119,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Sword</td>
+          <td>Prototype Rancour</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2102,11 +2127,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -2125,7 +2150,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/b036d71d7b32c7a63030294bba6eebbe.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/fb34879f1ad703644b7a8d43738584db.png"
         />
       </p>
     </td>
@@ -2201,7 +2226,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/f43e13fd68af43a264bec769b1d39f4f.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/364dbb3fa5198e58037c89c229832c47.png"
         />
       </p>
     </td>
@@ -2277,7 +2302,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/42321f2cad996b42363b13cd29ba18f8.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/17bb0298b7eb29033322249bf7ddb4ba.png"
         />
       </p>
     </td>
@@ -2308,8 +2333,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Emblem of Severed Fate<br />1 x Wanderer's Troupe<br />1 x
-            Noblesse Oblige<br />1 x Gladiator's Finale<br />
+            3 x Emblem of Severed Fate<br />1 x Wanderer's Troupe<br />1 x
+            Gladiator's Finale<br />
           </td>
         </tr>
         <tr>
@@ -2353,7 +2378,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/342a100a12973506aa5b36b26d80af97.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/0195e3ef6ee3201c000c94907df40df8.png"
         />
       </p>
     </td>
@@ -2426,7 +2451,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/826ab28f3af152cd7989c72f3ef0230b.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/425ffda2b317f32763d8a1854174b022.png"
         />
       </p>
     </td>
@@ -2501,7 +2526,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c8f20f0d7c1d810d48bda479cffcd5de.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
         />
       </p>
     </td>
@@ -2574,7 +2599,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/46de4711ec3eaa223b81fa7026599356.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/17bb0298b7eb29033322249bf7ddb4ba.png"
         />
       </p>
     </td>
@@ -2608,7 +2633,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>Sailwind Shadow</td>
         </tr>
       </table>
     </td>
@@ -2616,19 +2641,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Rancour</td>
+          <td>Dull Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2647,7 +2672,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/df047395670bd46a98b5e1c60adef818.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/80f5c7acdac81ab55354dff564af98ba.png"
         />
       </p>
     </td>
@@ -2720,7 +2745,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e8aab63740d736e862c092ce52abb65a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
         />
       </p>
     </td>
@@ -2793,7 +2818,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c8f20f0d7c1d810d48bda479cffcd5de.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
         />
       </p>
     </td>
@@ -2866,7 +2891,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/976fc2d6600bd27a4c03f6b23b21a102.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/7cb22c7dfc7a4d025b00abea3945b2a0.png"
         />
       </p>
     </td>
@@ -2939,7 +2964,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/a763e0f2f425a7ef1823c08402f18633.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/32e2ab18ce1a38bc9d567b4abc5f486b.png"
         />
       </p>
     </td>
@@ -3012,7 +3037,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/6f29787300ec4c064de4371848045105.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4ad81ac2689909aa8b4678e2a85e4a49.png"
         />
       </p>
     </td>
@@ -3085,7 +3110,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e8aab63740d736e862c092ce52abb65a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
         />
       </p>
     </td>
@@ -3158,7 +3183,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/f43e13fd68af43a264bec769b1d39f4f.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/364dbb3fa5198e58037c89c229832c47.png"
         />
       </p>
     </td>
@@ -3231,7 +3256,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e8aab63740d736e862c092ce52abb65a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
         />
       </p>
     </td>
@@ -3304,7 +3329,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/34efed7cb28d106be618246381135f65.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4f063ffd1c7147b2f98ca9641b6b5fbe.png"
         />
       </p>
     </td>
@@ -3377,7 +3402,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e8aab63740d736e862c092ce52abb65a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/a992684119124978056a7d87caff3aa8.png"
         />
       </p>
     </td>
@@ -3450,7 +3475,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/c8f20f0d7c1d810d48bda479cffcd5de.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/1ae37ceaca9b404db9ccc7a8a13615f6.png"
         />
       </p>
     </td>
@@ -3523,7 +3548,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/e14e84202c3a55390d9fc06e9401cf16.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/86c19f0d5f4624d015b04f50ac234773.png"
         />
       </p>
     </td>
@@ -3596,7 +3621,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/42321f2cad996b42363b13cd29ba18f8.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/17bb0298b7eb29033322249bf7ddb4ba.png"
         />
       </p>
     </td>
@@ -3622,7 +3647,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3669,7 +3694,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/4cc17889a25b02d35ec5793e644498af.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/90240fffb2498fe90fe6c2927e696233.png"
         />
       </p>
     </td>
@@ -3744,7 +3769,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u7e7we/34efed7cb28d106be618246381135f65.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/4f063ffd1c7147b2f98ca9641b6b5fbe.png"
         />
       </p>
     </td>
@@ -3762,7 +3787,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -3795,6 +3820,79 @@
         <tr>
           <td>Level</td>
           <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Lynette</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Linette.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_ua4a1e/f97716cd3121d6af5792f3d9c9ccc15d.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
