@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>Characters</td>
-    <td>48</td>
+    <td>50</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1335</td>
+    <td>1336</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>889</td>
+    <td>899</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -316,11 +316,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>22</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -334,6 +334,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"
+        ,
+        height="18"
+      />
+      Thoma (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -343,17 +353,7 @@
         ,
         height="18"
       />
-      Xingqiu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Xingqiu (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1014 (rate -87)</td>
+    <td>1201 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1212257 (rate -82)</td>
+    <td>1409940 (rate -79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (60%)<br />Daily Activity: 240 (24%)<br />Adventure: 74
-      (8%)<br />Events: 70 (6%)<br />Quests: 30 (2%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (50%)<br />Daily Activity: 300 (25%)<br />Events: 180
+      (15%)<br />Adventure: 91 (8%)<br />Quests: 30 (2%)<br />Mail: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
@@ -575,7 +575,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -620,7 +620,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2844,7 +2844,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3868,7 +3868,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3893,6 +3893,79 @@
         <tr>
           <td>Level</td>
           <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Keqing</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1ff2e/ed3f8af399db200e72697658a087b576.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>20</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dull Blade</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
