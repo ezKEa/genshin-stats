@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>737</td>
+    <td>738</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1871</td>
+    <td>1872</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1340</td>
+    <td>1342</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>405</td>
+    <td>406</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>122</td>
+    <td>123</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -339,21 +339,21 @@
         height="18"
       />
       Hu Tao (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br /><img
+      Xiangling (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xiangling (15)<br />
+      Xingqiu (15)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1966 (rate -75)</td>
+    <td>2053 (rate -74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2139525 (rate -69)</td>
+    <td>2340651 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (31%)<br />Daily Activity: 540 (28%)<br />Events: 460
-      (24%)<br />Adventure: 214 (10%)<br />Quests: 130 (6%)<br />Mail: 20
-      (1%)<br />Other: 2 (0%)<br />
+      Daily Activity: 600 (30%)<br />Spiral Abyss: 600 (30%)<br />Events: 460
+      (23%)<br />Adventure: 241 (11%)<br />Quests: 130 (6%)<br />Mail: 20
+      (0%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
 </table>
