@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>706</td>
+    <td>708</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>59</td>
+    <td>61</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>406</td>
+    <td>407</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>123</td>
+    <td>125</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -334,26 +334,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xiangling (15)<br /><img
+      Xingqiu (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
       Shikanoin Heizou (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2238 (rate -72)</td>
+    <td>2498 (rate -68)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2557324 (rate -63)</td>
+    <td>2753268 (rate -60)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (35%)<br />Spiral Abyss: 600 (27%)<br />Events: 460
-      (21%)<br />Adventure: 246 (11%)<br />Quests: 130 (6%)<br />Mail: 20
-      (0%)<br />Other: 2 (0%)<br />
+      Daily Activity: 840 (34%)<br />Spiral Abyss: 600 (25%)<br />Events: 530
+      (21%)<br />Adventure: 276 (11%)<br />Quests: 210 (8%)<br />Mail: 40
+      (1%)<br />Other: 2 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2096,7 +2096,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
