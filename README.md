@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>710</td>
+    <td>711</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>747</td>
+    <td>749</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,11 +67,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1874</td>
+    <td>1875</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1345</td>
+    <td>1346</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -334,6 +334,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -343,17 +353,7 @@
         ,
         height="18"
       />
-      Xingqiu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Xingqiu (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4082 (rate -49)</td>
+    <td>4152 (rate -48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4179355 (rate -40)</td>
+    <td>4270031 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (30%)<br />Daily Activity: 1140 (28%)<br />Events: 880
-      (21%)<br />Mail: 340 (8%)<br />Adventure: 310 (7%)<br />Quests: 210
+      Daily Activity: 1200 (29%)<br />Spiral Abyss: 1200 (29%)<br />Events: 880
+      (21%)<br />Mail: 340 (8%)<br />Adventure: 320 (7%)<br />Quests: 210
       (5%)<br />Other: 2 (1%)<br />
     </td>
   </tr>
