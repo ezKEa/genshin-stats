@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4294 (rate -46)</td>
+    <td>4624 (rate -42)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4421336 (rate -37)</td>
+    <td>4883087 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1320 (31%)<br />Spiral Abyss: 1200 (28%)<br />Events: 880
-      (21%)<br />Mail: 360 (8%)<br />Adventure: 322 (7%)<br />Quests: 210
-      (4%)<br />Other: 2 (1%)<br />
+      Daily Activity: 1380 (30%)<br />Spiral Abyss: 1200 (26%)<br />Events: 880
+      (20%)<br />Adventure: 401 (8%)<br />Mail: 400 (8%)<br />Quests: 360
+      (7%)<br />Other: 3 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1208,7 +1208,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
