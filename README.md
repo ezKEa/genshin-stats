@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>711</td>
+    <td>713</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>750</td>
+    <td>751</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,19 +67,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1875</td>
+    <td>1877</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1346</td>
+    <td>1348</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>407</td>
+    <td>409</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>157</td>
+    <td>158</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -187,7 +187,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -316,11 +316,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>12</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -334,26 +334,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Xingqiu (12)<br />
+      Xingqiu (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4624 (rate -42)</td>
+    <td>4725 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4883087 (rate -30)</td>
+    <td>5082309 (rate -27)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (30%)<br />Spiral Abyss: 1200 (26%)<br />Events: 880
-      (20%)<br />Adventure: 401 (8%)<br />Mail: 400 (8%)<br />Quests: 360
-      (7%)<br />Other: 3 (1%)<br />
+      Daily Activity: 1440 (31%)<br />Spiral Abyss: 1200 (26%)<br />Events: 880
+      (18%)<br />Quests: 380 (8%)<br />Adventure: 421 (8%)<br />Mail: 400
+      (8%)<br />Other: 4 (1%)<br />
     </td>
   </tr>
 </table>
