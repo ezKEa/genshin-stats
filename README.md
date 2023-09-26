@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>713</td>
+    <td>716</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>751</td>
+    <td>754</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>345</td>
+    <td>346</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>63</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1877</td>
+    <td>1881</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1348</td>
+    <td>1358</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>125</td>
+    <td>127</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -183,11 +183,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>26.0%</td>
+          <td>27.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>899</td>
+    <td>900</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,26 +334,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (12)<br />
+      Zhongli (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (13)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (105402)<br />
+      Shikanoin Heizou (132805)<br />
     </td>
   </tr>
   <tr>
@@ -397,7 +397,7 @@
         ,
         height="18"
       />
-      Bennett (62)<br />
+      Bennett (73)<br />
     </td>
   </tr>
   <tr>
@@ -408,7 +408,7 @@
         ,
         height="18"
       />
-      Yelan (149)<br />
+      Yelan (168)<br />
     </td>
   </tr>
 </table>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4725 (rate -41)</td>
+    <td>4983 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5082309 (rate -27)</td>
+    <td>5582412 (rate -20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (31%)<br />Spiral Abyss: 1200 (26%)<br />Events: 880
-      (18%)<br />Quests: 380 (8%)<br />Adventure: 421 (8%)<br />Mail: 400
+      Daily Activity: 1500 (31%)<br />Spiral Abyss: 1200 (24%)<br />Events: 880
+      (17%)<br />Quests: 510 (10%)<br />Adventure: 489 (9%)<br />Mail: 400
       (8%)<br />Other: 4 (1%)<br />
     </td>
   </tr>
