@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+        src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      10000 x Mora
     </td>
   </tr>
 </table>
@@ -334,21 +334,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
       Xiangling (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5925 (rate -26)</td>
+    <td>6565 (rate -18)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5825806 (rate -17)</td>
+    <td>5930002 (rate -15)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1620 (28%)<br />Spiral Abyss: 1200 (21%)<br />Mail: 1060
-      (17%)<br />Events: 920 (15%)<br />Adventure: 609 (10%)<br />Quests: 510
-      (8%)<br />Other: 6 (1%)<br />
+      Daily Activity: 1680 (26%)<br />Mail: 1640 (25%)<br />Spiral Abyss: 1200
+      (18%)<br />Events: 920 (14%)<br />Adventure: 609 (9%)<br />Quests: 510
+      (7%)<br />Other: 6 (1%)<br />
     </td>
   </tr>
 </table>
