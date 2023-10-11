@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>122</td>
+    <td>123</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1906</td>
+    <td>1908</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1445</td>
+    <td>1452</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>430</td>
+    <td>435</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>166</td>
+    <td>167</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -195,7 +195,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.0%</td>
+          <td>88.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -207,7 +207,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>98.0%</td>
+          <td>98.4%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -334,16 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -353,7 +343,17 @@
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3522 (rate -54)</td>
+    <td>3851 (rate -50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4122431 (rate -37)</td>
+    <td>4560307 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1228 (35%)<br />Spiral Abyss: 600 (18%)<br />Daily Activity:
-      540 (15%)<br />Events: 450 (12%)<br />Mail: 440 (12%)<br />Quests: 250
+      Adventure: 1327 (35%)<br />Events: 590 (16%)<br />Daily Activity: 600
+      (15%)<br />Spiral Abyss: 600 (15%)<br />Mail: 440 (11%)<br />Quests: 280
       (7%)<br />Other: 14 (1%)<br />
     </td>
   </tr>
