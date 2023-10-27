@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -334,37 +334,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Xingqiu (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Shikanoin Heizou (12)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Hu Tao (26)<br />
+      Xiangling (26)<br />
     </td>
   </tr>
   <tr>
@@ -416,16 +416,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7242 (rate -6)</td>
+    <td>7462 (rate -3)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>10053234 (rate 53)</td>
+    <td>10213709 (rate 55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1670 (24%)<br />Adventure: 1675 (24%)<br />Daily Activity: 1320
+      Events: 1830 (25%)<br />Adventure: 1675 (23%)<br />Daily Activity: 1380
       (19%)<br />Spiral Abyss: 1200 (16%)<br />Mail: 690 (9%)<br />Quests: 550
       (7%)<br />Other: 137 (1%)<br />
     </td>
