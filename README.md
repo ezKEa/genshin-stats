@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -360,11 +360,11 @@
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xiangling (26)<br />
+      Hu Tao (26)<br />
     </td>
   </tr>
   <tr>
