@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -334,16 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -353,7 +343,17 @@
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,16 +416,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7462 (rate -3)</td>
+    <td>7682 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>10213709 (rate 55)</td>
+    <td>10533184 (rate 60)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1830 (25%)<br />Adventure: 1675 (23%)<br />Daily Activity: 1380
+      Events: 1990 (26%)<br />Adventure: 1675 (22%)<br />Daily Activity: 1440
       (19%)<br />Spiral Abyss: 1200 (16%)<br />Mail: 690 (9%)<br />Quests: 550
       (7%)<br />Other: 137 (1%)<br />
     </td>
