@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>761</td>
+    <td>762</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>792</td>
+    <td>793</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>437</td>
+    <td>438</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -334,16 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -353,7 +343,17 @@
         ,
         height="18"
       />
-      Zhongli (12)<br />
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>990 (rate -87)</td>
+    <td>1025 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1525725 (rate -85)</td>
+    <td>1529577 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (61%)<br />Mail: 300 (30%)<br />Daily Activity: 60
-      (6%)<br />Quests: 30 (3%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (59%)<br />Mail: 320 (32%)<br />Daily Activity: 60
+      (6%)<br />Quests: 30 (2%)<br />Adventure: 15 (1%)<br />Events: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
