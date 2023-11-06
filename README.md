@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>762</td>
+    <td>763</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>793</td>
+    <td>794</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1463</td>
+    <td>1466</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -334,6 +334,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -348,12 +353,7 @@
         ,
         height="18"
       />
-      Hu Tao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1025 (rate -86)</td>
+    <td>1135 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1529577 (rate -85)</td>
+    <td>1616124 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (59%)<br />Mail: 320 (32%)<br />Daily Activity: 60
-      (6%)<br />Quests: 30 (2%)<br />Adventure: 15 (1%)<br />Events: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (53%)<br />Mail: 320 (29%)<br />Daily Activity: 120
+      (10%)<br />Quests: 60 (5%)<br />Adventure: 35 (3%)<br />Events: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
