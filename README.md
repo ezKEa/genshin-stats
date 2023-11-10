@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,19 +31,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>766</td>
+    <td>768</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>797</td>
+    <td>798</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>376</td>
+    <td>377</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -316,11 +316,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>21</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -338,33 +338,33 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (12)<br /><img
+      Shikanoin Heizou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+      Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+      Kaedehara Kazuha (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Xiangling (15)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (27)<br />
+      Hu Tao (32)<br />
     </td>
   </tr>
   <tr>
@@ -386,7 +386,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (85083)<br />
+      Kaedehara Kazuha (107839)<br />
     </td>
   </tr>
   <tr>
@@ -397,7 +397,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (55)<br />
+      Kaedehara Kazuha (72)<br />
     </td>
   </tr>
   <tr>
@@ -408,7 +408,7 @@
         ,
         height="18"
       />
-      Yelan (125)<br />
+      Yelan (194)<br />
     </td>
   </tr>
 </table>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2167 (rate -71)</td>
+    <td>2323 (rate -69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2023847 (rate -80)</td>
+    <td>2279847 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1080 (50%)<br />Spiral Abyss: 600 (28%)<br />Daily Activity: 240
-      (11%)<br />Adventure: 129 (5%)<br />Quests: 90 (4%)<br />Events: 20
-      (1%)<br />Other: 8 (1%)<br />
+      Mail: 1080 (47%)<br />Spiral Abyss: 600 (26%)<br />Daily Activity: 300
+      (13%)<br />Adventure: 144 (6%)<br />Events: 100 (4%)<br />Quests: 90
+      (3%)<br />Other: 9 (1%)<br />
     </td>
   </tr>
 </table>
@@ -818,7 +818,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/e41eb989bf2ae26c7d12656939a1646a.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f014fb7ed5f4d0827909205a04e8c4b2.png"
         />
       </p>
     </td>
@@ -860,15 +860,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dull Blade</td>
+          <td>Iron Sting</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -891,7 +891,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f6984e9bf9668eea210247003a5ac913.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f4c3934e305236958bf6ef0d2072ba9b.png"
         />
       </p>
     </td>
@@ -933,7 +933,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Festering Desire</td>
+          <td>Sapwood Blade</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -945,7 +945,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -2137,6 +2137,79 @@
     </td>
   </tr>
 </table>
+<h3>Jean</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Gunnhildr's Legacy</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Kirara</h3>
 <table>
   <tr>
@@ -2210,20 +2283,20 @@
     </td>
   </tr>
 </table>
-<h3>Jean</h3>
+<h3>Furina</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f014fb7ed5f4d0827909205a04e8c4b2.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f6984e9bf9668eea210247003a5ac913.png"
         />
       </p>
     </td>
@@ -2237,7 +2310,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Hydro</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2253,14 +2326,11 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            1 x Gladiator's Finale<br />3 x Viridescent Venerer<br />1 x
-            Thundersoother<br />
-          </td>
+          <td>4 x Golden Troupe<br />1 x Desert Pavilion Chronicle<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
-          <td>Gunnhildr's Legacy</td>
+          <td></td>
         </tr>
       </table>
     </td>
@@ -2268,7 +2338,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Iron Sting</td>
+          <td>Festering Desire</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2276,11 +2346,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -3465,79 +3535,6 @@
     </td>
   </tr>
 </table>
-<h3>Furina</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>50</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Golden Troupe<br />1 x Emblem of Severed Fate<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Ningguang</h3>
 <table>
   <tr>
@@ -4020,7 +4017,7 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Viridescent Venerer<br />1 x Shimenawa's Reminiscence<br />
+            2 x Viridescent Venerer<br />1 x Desert Pavilion Chronicle<br />
           </td>
         </tr>
         <tr>
