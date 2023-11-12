@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>798</td>
+    <td>799</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -339,21 +339,21 @@
         height="18"
       />
       Yelan (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Hu Tao (21)<br /><img
+      Kaedehara Kazuha (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
       Bennett (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (21)<br />
+      Xiangling (21)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2443 (rate -68)</td>
+    <td>2543 (rate -67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2487081 (rate -76)</td>
+    <td>2632175 (rate -75)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1080 (45%)<br />Spiral Abyss: 600 (25%)<br />Daily Activity: 360
-      (15%)<br />Events: 160 (6%)<br />Adventure: 144 (5%)<br />Quests: 90
+      Mail: 1100 (44%)<br />Spiral Abyss: 600 (24%)<br />Daily Activity: 380
+      (15%)<br />Events: 220 (8%)<br />Adventure: 144 (5%)<br />Quests: 90
       (3%)<br />Other: 9 (1%)<br />
     </td>
   </tr>
@@ -2245,7 +2245,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2532,7 +2532,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Hydro</td>
+          <td>Anemo</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2544,7 +2544,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
