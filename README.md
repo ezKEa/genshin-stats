@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>768</td>
+    <td>769</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>799</td>
+    <td>801</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>377</td>
+    <td>379</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>131</td>
+    <td>132</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1934</td>
+    <td>1935</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1468</td>
+    <td>1472</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>144</td>
+    <td>145</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -183,7 +183,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>49.0%</td>
+          <td>50.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>950</td>
+    <td>962</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -316,11 +316,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>34</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>21</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -334,6 +334,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -344,11 +349,6 @@
         height="18"
       />
       Kaedehara Kazuha (21)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (21)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2543 (rate -67)</td>
+    <td>2703 (rate -64)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2632175 (rate -75)</td>
+    <td>2833721 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1100 (44%)<br />Spiral Abyss: 600 (24%)<br />Daily Activity: 380
-      (15%)<br />Events: 220 (8%)<br />Adventure: 144 (5%)<br />Quests: 90
+      Mail: 1100 (41%)<br />Spiral Abyss: 600 (23%)<br />Daily Activity: 440
+      (16%)<br />Events: 280 (10%)<br />Adventure: 184 (6%)<br />Quests: 90
       (3%)<br />Other: 9 (1%)<br />
     </td>
   </tr>
