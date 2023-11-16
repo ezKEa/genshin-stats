@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>770</td>
+    <td>771</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>802</td>
+    <td>804</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>379</td>
+    <td>382</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>135</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1935</td>
+    <td>1937</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1475</td>
+    <td>1479</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>440</td>
+    <td>441</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>170</td>
+    <td>171</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -183,7 +183,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>50.0%</td>
+          <td>51.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>962</td>
+    <td>972</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -339,6 +339,11 @@
         height="18"
       />
       Shikanoin Heizou (23)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (23)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -348,12 +353,7 @@
         ,
         height="18"
       />
-      Bennett (23)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (23)<br />
+      Bennett (23)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2908 (rate -62)</td>
+    <td>3247 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3175586 (rate -70)</td>
+    <td>3583034 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1100 (38%)<br />Spiral Abyss: 600 (21%)<br />Daily Activity: 500
-      (17%)<br />Events: 340 (11%)<br />Adventure: 209 (7%)<br />Quests: 150
+      Mail: 1100 (34%)<br />Daily Activity: 620 (20%)<br />Spiral Abyss: 600
+      (18%)<br />Events: 460 (14%)<br />Adventure: 268 (8%)<br />Quests: 190
       (5%)<br />Other: 9 (1%)<br />
     </td>
   </tr>
