@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>771</td>
+    <td>772</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>804</td>
+    <td>805</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>140</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1937</td>
+    <td>1938</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1479</td>
+    <td>1486</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>441</td>
+    <td>443</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -183,7 +183,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.0%</td>
+          <td>52.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -231,7 +231,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>84.9%</td>
+          <td>86.6%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -312,15 +312,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>81</td>
+    <td>82</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>40</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>23</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -334,37 +334,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (23)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (23)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (23)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (23)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (47)<br />
+      Yelan (31)<br />
     </td>
   </tr>
   <tr>
@@ -375,18 +375,18 @@
         ,
         height="18"
       />
-      Hu Tao (216618)<br />
+      Hu Tao (150539)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (267688)<br />
+      Shikanoin Heizou (83547)<br />
     </td>
   </tr>
   <tr>
@@ -397,7 +397,7 @@
         ,
         height="18"
       />
-      Bennett (146)<br />
+      Bennett (56)<br />
     </td>
   </tr>
   <tr>
@@ -408,7 +408,7 @@
         ,
         height="18"
       />
-      Yelan (364)<br />
+      Yelan (163)<br />
     </td>
   </tr>
 </table>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3247 (rate -57)</td>
+    <td>4230 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3583034 (rate -66)</td>
+    <td>4512521 (rate -57)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1100 (34%)<br />Daily Activity: 620 (20%)<br />Spiral Abyss: 600
-      (18%)<br />Events: 460 (14%)<br />Adventure: 268 (8%)<br />Quests: 190
-      (5%)<br />Other: 9 (1%)<br />
+      Spiral Abyss: 1200 (29%)<br />Mail: 1200 (29%)<br />Daily Activity: 680
+      (16%)<br />Events: 460 (10%)<br />Quests: 350 (8%)<br />Adventure: 330
+      (7%)<br />Other: 10 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1281,7 +1281,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2245,7 +2245,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
