@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>782</td>
+    <td>785</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>812</td>
+    <td>814</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>394</td>
+    <td>395</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,27 +63,27 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>183</td>
+    <td>198</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1946</td>
+    <td>1956</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1526</td>
+    <td>1538</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>452</td>
+    <td>459</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>178</td>
+    <td>179</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>151</td>
+    <td>154</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -183,7 +183,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>64.0%</td>
+          <td>67.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -334,26 +334,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Furina (12)<br />
+      Furina (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        ,
+        height="18"
+      />
+      Shikanoin Heizou (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6049 (rate -21)</td>
+    <td>6196 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6712814 (rate -36)</td>
+    <td>6880711 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1220 (21%)<br />Spiral Abyss: 1200 (20%)<br />Adventure: 1189
-      (20%)<br />Daily Activity: 1140 (18%)<br />Events: 880 (14%)<br />Quests:
-      400 (6%)<br />Other: 20 (1%)<br />
+      Adventure: 1246 (21%)<br />Daily Activity: 1200 (20%)<br />Spiral Abyss:
+      1200 (19%)<br />Mail: 1220 (19%)<br />Events: 880 (14%)<br />Quests: 430
+      (6%)<br />Other: 20 (1%)<br />
     </td>
   </tr>
 </table>
