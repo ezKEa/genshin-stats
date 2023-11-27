@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6196 (rate -19)</td>
+    <td>6337 (rate -17)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6880711 (rate -35)</td>
+    <td>7070047 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1246 (21%)<br />Daily Activity: 1200 (20%)<br />Spiral Abyss:
-      1200 (19%)<br />Mail: 1220 (19%)<br />Events: 880 (14%)<br />Quests: 430
-      (6%)<br />Other: 20 (1%)<br />
+      Adventure: 1326 (21%)<br />Daily Activity: 1260 (20%)<br />Mail: 1220
+      (20%)<br />Spiral Abyss: 1200 (19%)<br />Events: 880 (13%)<br />Quests:
+      430 (6%)<br />Other: 21 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1281,7 +1281,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
