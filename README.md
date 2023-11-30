@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>786</td>
+    <td>789</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>817</td>
+    <td>818</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>395</td>
+    <td>396</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -67,19 +67,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1956</td>
+    <td>1959</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1550</td>
+    <td>1554</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>464</td>
+    <td>468</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>179</td>
+    <td>180</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -183,7 +183,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>67.0%</td>
+          <td>69.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Jean (12)<br />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6513 (rate -15)</td>
+    <td>6729 (rate -12)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7478092 (rate -29)</td>
+    <td>7720615 (rate -27)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (22%)<br />Adventure: 1381 (22%)<br />Spiral Abyss:
-      1200 (18%)<br />Mail: 1220 (18%)<br />Events: 880 (13%)<br />Quests: 430
-      (6%)<br />Other: 22 (1%)<br />
+      Adventure: 1497 (23%)<br />Daily Activity: 1440 (22%)<br />Mail: 1220
+      (18%)<br />Spiral Abyss: 1200 (17%)<br />Events: 920 (13%)<br />Quests:
+      430 (6%)<br />Other: 22 (1%)<br />
     </td>
   </tr>
 </table>
@@ -2058,6 +2058,79 @@
     </td>
   </tr>
 </table>
+<h3>Jean</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Gunnhildr's Legacy</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Barbara</h3>
 <table>
   <tr>
@@ -2205,79 +2278,6 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Jean</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/f260db90ba3bbe3564c66c69d8e1e915.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Emblem of Severed Fate<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>Gunnhildr's Legacy</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
         </tr>
       </table>
     </td>
