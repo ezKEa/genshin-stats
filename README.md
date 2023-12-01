@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Xiangling (12)<br />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6729 (rate -12)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7720615 (rate -27)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1497 (23%)<br />Daily Activity: 1440 (22%)<br />Mail: 1220
-      (18%)<br />Spiral Abyss: 1200 (17%)<br />Events: 920 (13%)<br />Quests:
-      430 (6%)<br />Other: 22 (1%)<br />
+      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
+      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
