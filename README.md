@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (15)<br />
+      Kaedehara Kazuha (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (15)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2197 (rate -67)</td>
+    <td>2936 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2178722 (rate -72)</td>
+    <td>2935107 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 750 (35%)<br />Spiral Abyss: 600 (28%)<br />Mail: 400 (18%)<br />Daily
-      Activity: 180 (8%)<br />Adventure: 157 (7%)<br />Quests: 50 (2%)<br />Other:
+      Events: 910 (31%)<br />Mail: 620 (22%)<br />Spiral Abyss: 600 (21%)<br />Adventure:
+      396 (13%)<br />Daily Activity: 240 (8%)<br />Quests: 110 (3%)<br />Other:
       60 (2%)<br />
     </td>
   </tr>
@@ -1281,7 +1281,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -4323,6 +4323,79 @@
         <tr>
           <td>Name</td>
           <td>Apprentice's Notes</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Freminet</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Freminet.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
