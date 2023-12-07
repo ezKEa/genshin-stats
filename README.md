@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>824</td>
+    <td>825</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>182</td>
+    <td>184</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -183,7 +183,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>71.0%</td>
+          <td>72.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Shikanoin Heizou (15)<br />
+      Shikanoin Heizou (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (15)<br />
     </td>
   </tr>
   <tr>
@@ -416,17 +416,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3231 (rate -52)</td>
+    <td>3441 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3109724 (rate -60)</td>
+    <td>3516440 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 910 (29%)<br />Mail: 820 (26%)<br />Spiral Abyss: 600 (19%)<br />Adventure:
-      401 (12%)<br />Daily Activity: 300 (9%)<br />Quests: 110 (3%)<br />Other:
+      Events: 1050 (31%)<br />Mail: 820 (24%)<br />Spiral Abyss: 600 (18%)<br />Adventure:
+      411 (12%)<br />Daily Activity: 360 (10%)<br />Quests: 110 (3%)<br />Other:
       90 (2%)<br />
     </td>
   </tr>
