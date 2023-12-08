@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>796</td>
+    <td>805</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>825</td>
+    <td>826</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,15 +67,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1977</td>
+    <td>1995</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1588</td>
+    <td>1598</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>476</td>
+    <td>482</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>161</td>
+    <td>162</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -231,7 +231,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>86.6%</td>
+          <td>92.1%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -243,7 +243,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>92.0%</td>
+          <td>93.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>994</td>
+    <td>996</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Yelan (15)<br />
+      Yelan (15)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (15)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3441 (rate -49)</td>
+    <td>4790 (rate -29)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3516440 (rate -55)</td>
+    <td>3920523 (rate -50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1050 (31%)<br />Mail: 820 (24%)<br />Spiral Abyss: 600 (18%)<br />Adventure:
-      411 (12%)<br />Daily Activity: 360 (10%)<br />Quests: 110 (3%)<br />Other:
-      90 (2%)<br />
+      Events: 1050 (22%)<br />Mail: 820 (18%)<br />Adventure: 630 (14%)<br />Spiral
+      Abyss: 600 (12%)<br />Daily Activity: 420 (8%)<br />Quests: 180 (3%)<br />Other:
+      1090 (23%)<br />
     </td>
   </tr>
 </table>
@@ -1624,7 +1624,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/86c67e69c7996e9663d5e1d092ce9b98.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png"
         />
       </p>
     </td>
@@ -1669,7 +1669,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Solar Pearl</td>
+          <td>Favonius Codex</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1677,11 +1677,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1823,7 +1823,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2093,7 +2093,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3256,7 +3256,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/a869cf4ba85d5ef0e8fda6de65f426c4.png"
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/86c67e69c7996e9663d5e1d092ce9b98.png"
         />
       </p>
     </td>
@@ -3298,7 +3298,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Codex</td>
+          <td>Solar Pearl</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -3306,11 +3306,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -4267,6 +4267,79 @@
     </td>
   </tr>
 </table>
+<h3>Freminet</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Freminet.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Waster Greatsword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Charlotte</h3>
 <table>
   <tr>
@@ -4323,79 +4396,6 @@
         <tr>
           <td>Name</td>
           <td>Apprentice's Notes</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Freminet</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Freminet.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act.hoyoverse.com/hk4e/e20200928calculate/item_icon_uceddf/3b3b5f33aac5b919e46cce1157040e09.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
