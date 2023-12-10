@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>805</td>
+    <td>806</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>826</td>
+    <td>828</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -334,6 +334,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (15)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -348,12 +353,7 @@
         ,
         height="18"
       />
-      Furina (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
-        ,
-        height="18"
-      />
-      Shikanoin Heizou (15)<br />
+      Furina (15)<br />
     </td>
   </tr>
   <tr>
@@ -416,18 +416,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5340 (rate -21)</td>
+    <td>5655 (rate -16)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4246915 (rate -46)</td>
+    <td>4413190 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1190 (23%)<br />Mail: 1120 (21%)<br />Spiral Abyss: 600 (12%)<br />Adventure:
-      630 (11%)<br />Daily Activity: 480 (8%)<br />Quests: 230 (4%)<br />Other:
-      1090 (21%)<br />
+      Mail: 1320 (24%)<br />Events: 1190 (22%)<br />Adventure: 635 (11%)<br />Spiral
+      Abyss: 600 (10%)<br />Daily Activity: 540 (9%)<br />Quests: 280 (4%)<br />Other:
+      1090 (20%)<br />
     </td>
   </tr>
 </table>
