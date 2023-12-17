@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>810</td>
+    <td>812</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>834</td>
+    <td>835</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2004</td>
+    <td>2007</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>165</td>
+    <td>167</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -195,7 +195,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>88.0%</td>
+          <td>89.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -312,15 +312,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>83</td>
+    <td>84</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>15</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -332,102 +332,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (15)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (15)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (41)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (193837)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (169128)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (71)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (248)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6955 (rate 2)</td>
+    <td>7716 (rate 13)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5359252 (rate -31)</td>
+    <td>6123862 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1940 (28%)<br />Events: 1330 (20%)<br />Daily Activity: 900 (13%)<br />Adventure:
-      815 (11%)<br />Spiral Abyss: 600 (8%)<br />Quests: 280 (4%)<br />Other:
-      1090 (16%)<br />
+      Mail: 1980 (26%)<br />Events: 1330 (18%)<br />Spiral Abyss: 1200 (16%)<br />Daily
+      Activity: 960 (12%)<br />Adventure: 856 (11%)<br />Quests: 300 (3%)<br />Other:
+      1090 (14%)<br />
     </td>
   </tr>
 </table>
@@ -2918,7 +2861,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Marechaussee Hunter<br /></td>
+          <td>2 x Marechaussee Hunter<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
