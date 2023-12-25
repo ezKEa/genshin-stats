@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>841</td>
+    <td>843</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1007</td>
+    <td>1008</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -334,11 +334,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -353,7 +348,12 @@
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -416,16 +416,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9537 (rate 40)</td>
+    <td>9727 (rate 43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7711018 (rate -2)</td>
+    <td>7862893 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2700 (29%)<br />Events: 1720 (19%)<br />Daily Activity: 1380
+      Mail: 2700 (28%)<br />Events: 1850 (20%)<br />Daily Activity: 1440
       (15%)<br />Spiral Abyss: 1200 (12%)<br />Adventure: 936 (9%)<br />Quests:
       510 (5%)<br />Other: 1091 (11%)<br />
     </td>
