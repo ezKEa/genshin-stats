@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -330,26 +330,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Furina (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+      Shikanoin Heizou (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Jean (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10247 (rate 50)</td>
+    <td>10484 (rate 54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8452544 (rate 7)</td>
+    <td>8757301 (rate 11)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2740 (27%)<br />Events: 2100 (21%)<br />Daily Activity: 1560
-      (16%)<br />Spiral Abyss: 1200 (12%)<br />Adventure: 1016 (9%)<br />Quests:
-      540 (5%)<br />Other: 1091 (10%)<br />
+      Mail: 2780 (27%)<br />Events: 2160 (21%)<br />Daily Activity: 1620
+      (16%)<br />Spiral Abyss: 1200 (12%)<br />Adventure: 1033 (9%)<br />Quests:
+      600 (5%)<br />Other: 1091 (10%)<br />
     </td>
   </tr>
 </table>
@@ -1872,10 +1872,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            3 x Noblesse Oblige<br />1 x Wanderer's Troupe<br />1 x Emblem of
-            Severed Fate<br />
-          </td>
+          <td>3 x Noblesse Oblige<br />1 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2216,7 +2213,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/6aa16c16a0c1f4eb9d128116cb5fdb90.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/bd49626cdf5c96e2971484c1eab30d09.png"
         />
       </p>
     </td>
@@ -2247,8 +2244,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            1 x Emblem of Severed Fate<br />2 x Thundering Fury<br />1 x Desert
-            Pavilion Chronicle<br />1 x Noblesse Oblige<br />
+            1 x Emblem of Severed Fate<br />2 x Thundering Fury<br />1 x
+            Noblesse Oblige<br />
           </td>
         </tr>
         <tr>
@@ -2261,15 +2258,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Serpent Spine</td>
+          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2347,6 +2344,83 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Navia</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u084qf/6aa16c16a0c1f4eb9d128116cb5fdb90.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Geo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            1 x Nighttime Whispers in the Echoing Woods<br />1 x Wanderer's
+            Troupe<br />1 x Desert Pavilion Chronicle<br />1 x Gilded Dreams<br />1
+            x Shimenawa's Reminiscence<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Serpent Spine</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -3716,7 +3790,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -4008,7 +4082,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
