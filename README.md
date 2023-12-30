@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>846</td>
+    <td>848</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -297,7 +297,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1020</td>
+    <td>1021</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -330,26 +330,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Furina (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+      Shikanoin Heizou (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Jean (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xiangling (12)<br />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10634 (rate 56)</td>
+    <td>10744 (rate 58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9081845 (rate 15)</td>
+    <td>9166320 (rate 16)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2800 (27%)<br />Events: 2230 (21%)<br />Daily Activity: 1680
-      (16%)<br />Spiral Abyss: 1200 (12%)<br />Adventure: 1033 (9%)<br />Quests:
-      600 (5%)<br />Other: 1091 (10%)<br />
+      Mail: 2830 (27%)<br />Events: 2230 (21%)<br />Daily Activity: 1740
+      (17%)<br />Spiral Abyss: 1200 (11%)<br />Adventure: 1033 (9%)<br />Quests:
+      600 (5%)<br />Other: 1111 (10%)<br />
     </td>
   </tr>
 </table>
