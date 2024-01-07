@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>855</td>
+    <td>856</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -330,16 +330,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -349,7 +339,17 @@
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1347 (rate -87)</td>
+    <td>1427 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1554631 (rate -83)</td>
+    <td>1699836 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (45%)<br />Daily Activity: 300 (22%)<br />Adventure: 87
-      (6%)<br />Mail: 20 (1%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      340 (26%)<br />
+      Spiral Abyss: 600 (43%)<br />Daily Activity: 360 (26%)<br />Adventure: 107
+      (7%)<br />Mail: 20 (1%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      340 (23%)<br />
     </td>
   </tr>
 </table>
@@ -1600,7 +1600,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
