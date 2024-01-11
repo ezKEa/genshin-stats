@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>858</td>
+    <td>860</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>55</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -297,7 +297,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1035</td>
+    <td>1045</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -330,11 +330,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -349,7 +344,12 @@
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1507 (rate -86)</td>
+    <td>1707 (rate -84)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1888679 (rate -80)</td>
+    <td>2048154 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (40%)<br />Daily Activity: 420 (28%)<br />Adventure: 127
-      (8%)<br />Mail: 20 (1%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      340 (23%)<br />
+      Spiral Abyss: 600 (36%)<br />Daily Activity: 480 (29%)<br />Events: 140
+      (8%)<br />Adventure: 127 (7%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Other:
+      340 (19%)<br />
     </td>
   </tr>
 </table>
@@ -887,7 +887,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/214b50630094a3ecb760a7ee4c5b95e0.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/ec26c8a78b345c5a00a87a293bdf1e28.png"
         />
       </p>
     </td>
@@ -929,7 +929,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Iron Sting</td>
+          <td>Favonius Sword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -4349,7 +4349,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/ec26c8a78b345c5a00a87a293bdf1e28.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/214b50630094a3ecb760a7ee4c5b95e0.png"
         />
       </p>
     </td>
@@ -4391,7 +4391,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Favonius Sword</td>
+          <td>Iron Sting</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -4513,7 +4513,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -4586,7 +4586,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>40</td>
         </tr>
         <tr>
           <td>Friendship</td>
