@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>860</td>
+    <td>861</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1623</td>
+    <td>1624</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -335,21 +335,21 @@
         height="18"
       />
       Furina (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Jean (12)<br /><img
+      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xiangling (12)<br />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1707 (rate -84)</td>
+    <td>1972 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2048154 (rate -78)</td>
+    <td>2380636 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (36%)<br />Daily Activity: 480 (29%)<br />Events: 140
-      (8%)<br />Adventure: 127 (7%)<br />Mail: 20 (1%)<br />Quests: 0 (0%)<br />Other:
-      340 (19%)<br />
+      Spiral Abyss: 600 (31%)<br />Daily Activity: 540 (28%)<br />Events: 220
+      (11%)<br />Mail: 140 (7%)<br />Adventure: 132 (6%)<br />Quests: 0 (0%)<br />Other:
+      340 (17%)<br />
     </td>
   </tr>
 </table>
