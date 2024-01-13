@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Fried Radish Balls
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -330,16 +330,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -349,7 +339,17 @@
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Hu Tao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1972 (rate -81)</td>
+    <td>2112 (rate -80)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2380636 (rate -74)</td>
+    <td>2568439 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (31%)<br />Daily Activity: 540 (28%)<br />Events: 220
-      (11%)<br />Mail: 140 (7%)<br />Adventure: 132 (6%)<br />Quests: 0 (0%)<br />Other:
-      340 (17%)<br />
+      Daily Activity: 600 (29%)<br />Spiral Abyss: 600 (29%)<br />Events: 300
+      (14%)<br />Adventure: 132 (6%)<br />Mail: 140 (6%)<br />Quests: 0 (0%)<br />Other:
+      340 (16%)<br />
     </td>
   </tr>
 </table>
@@ -1359,8 +1359,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Nighttime Whispers in the Echoing Woods<br />1 x Wanderer's
-            Troupe<br />1 x Gilded Dreams<br />1 x Shimenawa's Reminiscence<br />
+            4 x Nighttime Whispers in the Echoing Woods<br />1 x Gilded
+            Dreams<br />
           </td>
         </tr>
         <tr>
@@ -4495,7 +4495,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/846b410dc633c63337a283f05f1b10c3.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u85drf/6c6e15472a40e30d319b7a0e241fd6d5.png"
         />
       </p>
     </td>
@@ -4537,15 +4537,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Beginner's Protector</td>
+          <td>Skyward Spine</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
