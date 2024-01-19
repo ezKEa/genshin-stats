@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>866</td>
+    <td>868</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1629</td>
+    <td>1631</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -330,6 +330,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -339,17 +349,7 @@
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3320 (rate -69)</td>
+    <td>3450 (rate -68)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4091385 (rate -56)</td>
+    <td>4185953 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (37%)<br />Daily Activity: 900 (28%)<br />Events: 460
-      (13%)<br />Adventure: 200 (6%)<br />Mail: 140 (4%)<br />Quests: 80 (2%)<br />Other:
-      340 (10%)<br />
+      Spiral Abyss: 1200 (35%)<br />Daily Activity: 960 (28%)<br />Events: 460
+      (14%)<br />Adventure: 200 (5%)<br />Mail: 190 (5%)<br />Quests: 80 (2%)<br />Other:
+      360 (11%)<br />
     </td>
   </tr>
 </table>
