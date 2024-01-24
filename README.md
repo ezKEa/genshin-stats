@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>871</td>
+    <td>872</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -330,6 +330,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -344,12 +349,7 @@
         ,
         height="18"
       />
-      Furina (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (12)<br />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,17 +412,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4390 (rate -59)</td>
+    <td>4490 (rate -58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4794165 (rate -49)</td>
+    <td>4978451 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1200 (28%)<br />Spiral Abyss: 1200 (28%)<br />Events: 860
-      (20%)<br />Mail: 490 (11%)<br />Adventure: 200 (4%)<br />Quests: 80
+      Daily Activity: 1260 (29%)<br />Spiral Abyss: 1200 (27%)<br />Events: 900
+      (21%)<br />Mail: 490 (10%)<br />Adventure: 200 (4%)<br />Quests: 80
       (1%)<br />Other: 360 (8%)<br />
     </td>
   </tr>
