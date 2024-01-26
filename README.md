@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>819</td>
+    <td>820</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>874</td>
+    <td>875</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -330,6 +330,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
         ,
         height="18"
@@ -339,17 +349,7 @@
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,16 +412,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4590 (rate -58)</td>
+    <td>4690 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5043914 (rate -46)</td>
+    <td>5165982 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1320 (29%)<br />Spiral Abyss: 1200 (27%)<br />Events: 940
+      Daily Activity: 1380 (30%)<br />Spiral Abyss: 1200 (26%)<br />Events: 980
       (21%)<br />Mail: 490 (11%)<br />Adventure: 200 (4%)<br />Quests: 80
       (1%)<br />Other: 360 (7%)<br />
     </td>
