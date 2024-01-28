@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>876</td>
+    <td>877</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4795 (rate -56)</td>
+    <td>5055 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5288722 (rate -43)</td>
+    <td>5451561 (rate -42)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (31%)<br />Spiral Abyss: 1200 (26%)<br />Events: 1020
-      (21%)<br />Mail: 490 (10%)<br />Adventure: 205 (4%)<br />Quests: 80
-      (1%)<br />Other: 360 (7%)<br />
+      Daily Activity: 1500 (30%)<br />Spiral Abyss: 1200 (24%)<br />Events: 1160
+      (23%)<br />Mail: 490 (10%)<br />Adventure: 205 (4%)<br />Quests: 140
+      (2%)<br />Other: 360 (7%)<br />
     </td>
   </tr>
 </table>
