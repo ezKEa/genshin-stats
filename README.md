@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>877</td>
+    <td>878</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -330,6 +330,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -344,12 +349,7 @@
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5055 (rate -53)</td>
+    <td>5215 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5451561 (rate -42)</td>
+    <td>5603561 (rate -40)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1500 (30%)<br />Spiral Abyss: 1200 (24%)<br />Events: 1160
-      (23%)<br />Mail: 490 (10%)<br />Adventure: 205 (4%)<br />Quests: 140
-      (2%)<br />Other: 360 (7%)<br />
+      Daily Activity: 1560 (30%)<br />Events: 1200 (24%)<br />Spiral Abyss: 1200
+      (24%)<br />Mail: 550 (11%)<br />Adventure: 205 (3%)<br />Quests: 140
+      (2%)<br />Other: 360 (6%)<br />
     </td>
   </tr>
 </table>
