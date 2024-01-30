@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -330,6 +330,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -344,12 +349,7 @@
         ,
         height="18"
       />
-      Hu Tao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -412,18 +412,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5215 (rate -52)</td>
+    <td>5275 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5603561 (rate -40)</td>
+    <td>5694417 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1560 (30%)<br />Events: 1200 (24%)<br />Spiral Abyss: 1200
-      (24%)<br />Mail: 550 (11%)<br />Adventure: 205 (3%)<br />Quests: 140
-      (2%)<br />Other: 360 (6%)<br />
+      Daily Activity: 1620 (31%)<br />Events: 1200 (23%)<br />Spiral Abyss: 1200
+      (23%)<br />Mail: 550 (11%)<br />Adventure: 205 (3%)<br />Quests: 140
+      (2%)<br />Other: 360 (7%)<br />
     </td>
   </tr>
 </table>
@@ -1350,7 +1350,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
