@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+        src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      10000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>820</td>
+    <td>823</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>880</td>
+    <td>881</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>398</td>
+    <td>399</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2055</td>
+    <td>2057</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1631</td>
+    <td>1632</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>495</td>
+    <td>497</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>167</td>
+    <td>168</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -91,6 +91,7 @@
 <table>
   <tr>
     <th>Chenyu Vale: Upper Vale</th>
+    <th>Chenyu Vale: Southern Mountain</th>
     <th>Fontaine</th>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
@@ -103,6 +104,14 @@
     <th>Chenyu Vale</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -197,7 +206,19 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>1.3%</td>
+          <td>3.2%</td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>2.2%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -350,15 +371,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>86</td>
+    <td>87</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>14</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -370,101 +391,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (33)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (250079)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (67285)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (60)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (121)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>727 (rate -88)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>900312 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
-      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Spiral Abyss: 600 (83%)<br />Daily Activity: 60 (8%)<br />Adventure: 44
+      (6%)<br />Mail: 20 (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      3 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1467,7 +1432,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3827,7 +3792,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
