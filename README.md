@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/08/02/cb0d79765ac1b39571d2e8d09e24825c_80222486237809127.png"
+        src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
         width="120px"
       />
       <br />
-      10000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>823</td>
+    <td>824</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>881</td>
+    <td>883</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>399</td>
+    <td>403</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2057</td>
+    <td>2060</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1632</td>
+    <td>1640</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>497</td>
+    <td>498</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>3.2%</td>
+          <td>9.8%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>2.2%</td>
+          <td>7.4%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -360,7 +360,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1047</td>
+    <td>1057</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -391,44 +391,101 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (12)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (62)<br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (227615)<br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (25214)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (63)<br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (91)<br />
+    </td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>727 (rate -88)</td>
+    <td>929 (rate -84)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>900312 (rate -84)</td>
+    <td>1014448 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (83%)<br />Daily Activity: 60 (8%)<br />Adventure: 44
-      (6%)<br />Mail: 20 (2%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (65%)<br />Daily Activity: 120 (13%)<br />Mail: 120
+      (12%)<br />Adventure: 86 (9%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
       3 (1%)<br />
     </td>
   </tr>
