@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+        src="https://upload-static.hoyoverse.com/event/2023/08/02/6ef98074e6e8c9c838e144d4db496434_8066711723462859249.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -393,11 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -412,7 +407,12 @@
         ,
         height="18"
       />
-      Navia (12)<br />
+      Navia (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>929 (rate -84)</td>
+    <td>1055 (rate -82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1014448 (rate -82)</td>
+    <td>1144602 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (65%)<br />Daily Activity: 120 (13%)<br />Mail: 120
-      (12%)<br />Adventure: 86 (9%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      3 (1%)<br />
+      Spiral Abyss: 600 (57%)<br />Daily Activity: 180 (17%)<br />Mail: 140
+      (13%)<br />Adventure: 131 (12%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      4 (1%)<br />
     </td>
   </tr>
 </table>
