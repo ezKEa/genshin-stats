@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/08/02/f4450e0ef470f777fca0b3dd95813734_3603182912516488348.png"
+        src="https://upload-static.hoyoverse.com/event/2023/08/02/22542ef6122f5ad4ac1c3834d11cdfb4_5589935104269762612.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>885</td>
+    <td>886</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>406</td>
+    <td>409</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2063</td>
+    <td>2066</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1646</td>
+    <td>1648</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>171</td>
+    <td>172</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>21.6%</td>
+          <td>29.8%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -393,16 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -412,7 +402,17 @@
         ,
         height="18"
       />
-      Xiangling (12)<br />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,17 +475,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1187 (rate -80)</td>
+    <td>1303 (rate -78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1313059 (rate -77)</td>
+    <td>1395693 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (51%)<br />Daily Activity: 240 (20%)<br />Adventure: 182
-      (15%)<br />Mail: 160 (13%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (47%)<br />Daily Activity: 300 (23%)<br />Adventure: 218
+      (16%)<br />Mail: 180 (13%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
       5 (1%)<br />
     </td>
   </tr>
