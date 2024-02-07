@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2023/08/02/22542ef6122f5ad4ac1c3834d11cdfb4_5589935104269762612.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>886</td>
+    <td>887</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -360,7 +360,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1059</td>
+    <td>1069</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -393,16 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
         ,
         height="18"
@@ -412,7 +402,17 @@
         ,
         height="18"
       />
-      Zhongli (12)<br />
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1303 (rate -78)</td>
+    <td>1523 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1395693 (rate -76)</td>
+    <td>1644293 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (47%)<br />Daily Activity: 300 (23%)<br />Adventure: 218
-      (16%)<br />Mail: 180 (13%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      5 (1%)<br />
+      Spiral Abyss: 600 (40%)<br />Daily Activity: 360 (24%)<br />Mail: 280
+      (18%)<br />Adventure: 218 (14%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      65 (4%)<br />
     </td>
   </tr>
 </table>
