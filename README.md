@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>890</td>
+    <td>892</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1651</td>
+    <td>1652</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>15.6%</td>
+          <td>15.9%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -360,7 +360,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1069</td>
+    <td>1071</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -393,11 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
         ,
         height="18"
@@ -412,7 +407,12 @@
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2434 (rate -60)</td>
+    <td>2624 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2364870 (rate -59)</td>
+    <td>2526345 (rate -56)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (25%)<br />Spiral Abyss: 600 (24%)<br />Adventure: 268
-      (11%)<br />Mail: 280 (11%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      686 (29%)<br />
+      Daily Activity: 660 (26%)<br />Spiral Abyss: 600 (22%)<br />Mail: 380
+      (14%)<br />Adventure: 268 (10%)<br />Quests: 30 (1%)<br />Events: 0
+      (0%)<br />Other: 686 (27%)<br />
     </td>
   </tr>
 </table>
