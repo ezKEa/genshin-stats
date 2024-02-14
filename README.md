@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>892</td>
+    <td>894</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>412</td>
+    <td>414</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>15.9%</td>
+          <td>18.9%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -360,7 +360,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1071</td>
+    <td>1081</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -393,16 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -412,7 +402,17 @@
         ,
         height="18"
       />
-      Navia (12)<br />
+      Navia (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2714 (rate -55)</td>
+    <td>2864 (rate -53)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2696070 (rate -53)</td>
+    <td>2964544 (rate -49)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 720 (27%)<br />Spiral Abyss: 600 (22%)<br />Mail: 380
-      (14%)<br />Adventure: 268 (9%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Other:
-      716 (27%)<br />
+      Daily Activity: 780 (28%)<br />Spiral Abyss: 600 (21%)<br />Mail: 420
+      (14%)<br />Adventure: 278 (9%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Other:
+      756 (27%)<br />
     </td>
   </tr>
 </table>
