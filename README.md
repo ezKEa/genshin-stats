@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>895</td>
+    <td>896</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -403,16 +403,16 @@
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3014 (rate -50)</td>
+    <td>3144 (rate -48)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3235219 (rate -44)</td>
+    <td>3627384 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 840 (28%)<br />Spiral Abyss: 600 (20%)<br />Mail: 420
-      (13%)<br />Adventure: 278 (9%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Other:
-      846 (29%)<br />
+      Daily Activity: 900 (29%)<br />Spiral Abyss: 600 (19%)<br />Mail: 420
+      (13%)<br />Adventure: 278 (8%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Other:
+      916 (30%)<br />
     </td>
   </tr>
 </table>
