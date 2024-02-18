@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -371,15 +371,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>87</td>
+    <td>88</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>17</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -391,102 +391,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (62)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (227615)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (25214)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (63)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (91)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3284 (rate -46)</td>
+    <td>3974 (rate -34)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3772216 (rate -35)</td>
+    <td>4488991 (rate -23)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 960 (30%)<br />Spiral Abyss: 600 (18%)<br />Mail: 420
-      (12%)<br />Adventure: 278 (8%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Other:
-      996 (31%)<br />
+      Spiral Abyss: 1200 (31%)<br />Daily Activity: 1020 (26%)<br />Mail: 420
+      (10%)<br />Adventure: 278 (6%)<br />Quests: 30 (1%)<br />Events: 0 (0%)<br />Other:
+      1026 (26%)<br />
     </td>
   </tr>
 </table>
