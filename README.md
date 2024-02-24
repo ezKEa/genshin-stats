@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      5 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>902</td>
+    <td>904</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -393,11 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -412,7 +407,12 @@
         ,
         height="18"
       />
-      Xiangling (12)<br />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4734 (rate -22)</td>
+    <td>4899 (rate -19)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5290066 (rate -9)</td>
+    <td>5444841 (rate -7)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1320 (28%)<br />Spiral Abyss: 1200 (25%)<br />Mail: 440
-      (9%)<br />Adventure: 278 (5%)<br />Events: 40 (1%)<br />Quests: 30 (1%)<br />Other:
-      1426 (31%)<br />
+      Daily Activity: 1380 (29%)<br />Spiral Abyss: 1200 (24%)<br />Mail: 440
+      (8%)<br />Adventure: 278 (5%)<br />Events: 40 (1%)<br />Quests: 30 (1%)<br />Other:
+      1531 (32%)<br />
     </td>
   </tr>
 </table>
