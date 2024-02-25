@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -393,11 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -412,7 +407,12 @@
         ,
         height="18"
       />
-      Furina (12)<br />
+      Furina (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
+        ,
+        height="18"
+      />
+      Navia (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4899 (rate -19)</td>
+    <td>5064 (rate -16)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5444841 (rate -7)</td>
+    <td>5604316 (rate -4)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (29%)<br />Spiral Abyss: 1200 (24%)<br />Mail: 440
+      Daily Activity: 1440 (29%)<br />Spiral Abyss: 1200 (23%)<br />Mail: 440
       (8%)<br />Adventure: 278 (5%)<br />Events: 40 (1%)<br />Quests: 30 (1%)<br />Other:
-      1531 (32%)<br />
+      1636 (33%)<br />
     </td>
   </tr>
 </table>
