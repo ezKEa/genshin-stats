@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
         width="120px"
       />
       <br />
-      3 x Hero's Wit
+      3 x Almond Tofu
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>904</td>
+    <td>905</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -393,16 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
-        ,
-        height="18"
-      />
-      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -412,7 +402,17 @@
         ,
         height="18"
       />
-      Navia (12)<br />
+      Navia (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5064 (rate -16)</td>
+    <td>5229 (rate -14)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5604316 (rate -4)</td>
+    <td>5758791 (rate -1)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (29%)<br />Spiral Abyss: 1200 (23%)<br />Mail: 440
+      Daily Activity: 1500 (29%)<br />Spiral Abyss: 1200 (22%)<br />Mail: 440
       (8%)<br />Adventure: 278 (5%)<br />Events: 40 (1%)<br />Quests: 30 (1%)<br />Other:
-      1636 (33%)<br />
+      1741 (34%)<br />
     </td>
   </tr>
 </table>
