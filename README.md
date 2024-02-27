@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Almond Tofu
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>905</td>
+    <td>907</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>414</td>
+    <td>417</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,19 +63,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2066</td>
+    <td>2067</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1652</td>
+    <td>1656</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>502</td>
+    <td>503</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>187</td>
+    <td>188</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>29.8%</td>
+          <td>34.7%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>18.9%</td>
+          <td>22.6%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -393,6 +393,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -402,17 +412,7 @@
         ,
         height="18"
       />
-      Navia (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br />
+      Navia (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5229 (rate -14)</td>
+    <td>5346 (rate -12)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5758791 (rate -1)</td>
+    <td>5877499 (rate 0)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1500 (29%)<br />Spiral Abyss: 1200 (22%)<br />Mail: 440
-      (8%)<br />Adventure: 278 (5%)<br />Events: 40 (1%)<br />Quests: 30 (1%)<br />Other:
-      1741 (34%)<br />
+      Daily Activity: 1560 (29%)<br />Spiral Abyss: 1200 (22%)<br />Mail: 440
+      (8%)<br />Adventure: 335 (6%)<br />Events: 40 (1%)<br />Quests: 30 (1%)<br />Other:
+      1741 (33%)<br />
     </td>
   </tr>
 </table>
