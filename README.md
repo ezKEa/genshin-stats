@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>909</td>
+    <td>910</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1656</td>
+    <td>1657</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -371,7 +371,7 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>88</td>
+    <td>89</td>
   </tr>
   <tr>
     <td>Total Battles</td>
@@ -391,101 +391,45 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (41)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (214889)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (28885)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (59)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (114)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>960 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>690762 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
-      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Spiral Abyss: 600 (63%)<br />Mail: 300 (31%)<br />Daily Activity: 60
+      (6%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4067,7 +4011,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
