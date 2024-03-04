@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>912</td>
+    <td>913</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -393,6 +393,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
@@ -402,17 +412,7 @@
         ,
         height="18"
       />
-      Furina (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,17 +475,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1140 (rate -80)</td>
+    <td>1200 (rate -79)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>856237 (rate -86)</td>
+    <td>983758 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (53%)<br />Mail: 300 (27%)<br />Daily Activity: 120
-      (10%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (50%)<br />Mail: 300 (25%)<br />Daily Activity: 180
+      (15%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other:
       120 (10%)<br />
     </td>
   </tr>
