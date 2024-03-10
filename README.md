@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Fine Enhancement Ore
+      5000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>824</td>
+    <td>825</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>917</td>
+    <td>918</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>417</td>
+    <td>418</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,23 +63,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2070</td>
+    <td>2071</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1657</td>
+    <td>1659</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>503</td>
+    <td>505</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>189</td>
+    <td>190</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>173</td>
+    <td>174</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -206,7 +206,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>36.0%</td>
+          <td>38.3%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>22.6%</td>
+          <td>26.3%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -393,6 +393,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -402,17 +412,7 @@
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1764 (rate -69)</td>
+    <td>1868 (rate -67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1527517 (rate -75)</td>
+    <td>1691136 (rate -73)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (35%)<br />Daily Activity: 480 (27%)<br />Mail: 320
-      (18%)<br />Adventure: 64 (3%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      300 (17%)<br />
+      Spiral Abyss: 600 (33%)<br />Daily Activity: 540 (29%)<br />Mail: 320
+      (17%)<br />Adventure: 108 (5%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      300 (16%)<br />
     </td>
   </tr>
 </table>
@@ -3150,6 +3150,82 @@
     </td>
   </tr>
 </table>
+<h3>Chongyun</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/854a2efeaca630c164c52cba1d5d32f8.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Wanderer's Troupe<br />1 x Gladiator's Finale<br />1 x Noblesse
+            Oblige<br />1 x Viridescent Venerer<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Prototype Archaic</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Xinyan</h3>
 <table>
   <tr>
@@ -3442,20 +3518,20 @@
     </td>
   </tr>
 </table>
-<h3>Chongyun</h3>
+<h3>Charlotte</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Charlotte.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/854a2efeaca630c164c52cba1d5d32f8.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
         />
       </p>
     </td>
@@ -3473,7 +3549,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -3481,14 +3557,11 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>6</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Wanderer's Troupe<br />1 x Gladiator's Finale<br />1 x Noblesse
-            Oblige<br />1 x Viridescent Venerer<br />
-          </td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3500,19 +3573,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Archaic</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -3586,79 +3659,6 @@
         <tr>
           <td>Refinement</td>
           <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Charlotte</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Charlotte.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ue2cxf/6075b68bb058c7155fec1925bb0d0745.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Apprentice's Notes</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
