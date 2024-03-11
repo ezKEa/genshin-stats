@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      20 x Primogem
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>918</td>
+    <td>920</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>418</td>
+    <td>419</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2071</td>
+    <td>2073</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1659</td>
+    <td>1663</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>505</td>
+    <td>506</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>174</td>
+    <td>175</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>26.3%</td>
+          <td>31.9%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -393,16 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -412,7 +402,17 @@
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1868 (rate -67)</td>
+    <td>1928 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1691136 (rate -73)</td>
+    <td>1760657 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (33%)<br />Daily Activity: 540 (29%)<br />Mail: 320
-      (17%)<br />Adventure: 108 (5%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      300 (16%)<br />
+      Daily Activity: 600 (32%)<br />Spiral Abyss: 600 (32%)<br />Mail: 320
+      (16%)<br />Adventure: 108 (5%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      300 (15%)<br />
     </td>
   </tr>
 </table>
