@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fried Radish Balls
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>920</td>
+    <td>921</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>419</td>
+    <td>420</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2073</td>
+    <td>2074</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1663</td>
+    <td>1666</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>190</td>
+    <td>191</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -218,7 +218,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>31.9%</td>
+          <td>38.6%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -393,16 +393,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -412,7 +402,17 @@
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
@@ -475,18 +475,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1928 (rate -66)</td>
+    <td>2041 (rate -64)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1760657 (rate -72)</td>
+    <td>1872134 (rate -70)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (32%)<br />Spiral Abyss: 600 (32%)<br />Mail: 320
-      (16%)<br />Adventure: 108 (5%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
-      300 (15%)<br />
+      Daily Activity: 660 (33%)<br />Spiral Abyss: 600 (30%)<br />Mail: 340
+      (16%)<br />Events: 300 (14%)<br />Adventure: 140 (6%)<br />Quests: 0
+      (0%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
 </table>
