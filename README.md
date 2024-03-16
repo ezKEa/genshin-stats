@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>923</td>
+    <td>924</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -379,7 +379,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>12</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -397,26 +397,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+      Xiangling (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+      Furina (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Jean (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+      Yelan (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Hu Tao (12)<br />
     </td>
   </tr>
   <tr>
@@ -479,17 +479,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3016 (rate -47)</td>
+    <td>3146 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2251870 (rate -64)</td>
+    <td>2386345 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 940 (32%)<br />Daily Activity: 840 (28%)<br />Spiral Abyss: 600
-      (20%)<br />Events: 340 (11%)<br />Adventure: 235 (7%)<br />Quests: 60
+      Mail: 940 (30%)<br />Daily Activity: 900 (29%)<br />Spiral Abyss: 600
+      (19%)<br />Events: 410 (13%)<br />Adventure: 235 (7%)<br />Quests: 60
       (1%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
@@ -2547,7 +2547,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>4 x Thundering Fury<br />1 x Viridescent Venerer<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3123,7 +3123,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+          <td>3 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
