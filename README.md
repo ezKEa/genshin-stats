@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Fisherman's Toast
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>926</td>
+    <td>928</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -397,6 +397,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (13)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
         ,
         height="18"
@@ -411,12 +416,7 @@
         ,
         height="18"
       />
-      Zhongli (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (13)<br />
+      Zhongli (13)<br />
     </td>
   </tr>
   <tr>
@@ -479,17 +479,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4136 (rate -28)</td>
+    <td>4256 (rate -26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3393374 (rate -46)</td>
+    <td>3548449 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (30%)<br />Daily Activity: 1020 (25%)<br />Mail: 940
-      (22%)<br />Events: 680 (16%)<br />Adventure: 235 (5%)<br />Quests: 60
+      Spiral Abyss: 1200 (29%)<br />Daily Activity: 1080 (25%)<br />Mail: 940
+      (22%)<br />Events: 740 (17%)<br />Adventure: 235 (5%)<br />Quests: 60
       (1%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
