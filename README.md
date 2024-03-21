@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>928</td>
+    <td>930</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2079</td>
+    <td>2080</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -222,7 +222,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>46.0%</td>
+          <td>46.4%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -397,16 +397,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
-        ,
-        height="18"
-      />
-      Navia (13)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -416,7 +406,17 @@
         ,
         height="18"
       />
-      Zhongli (13)<br />
+      Zhongli (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (13)<br />
     </td>
   </tr>
   <tr>
@@ -479,17 +479,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4398 (rate -23)</td>
+    <td>4608 (rate -20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3605180 (rate -43)</td>
+    <td>3799655 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 1200 (28%)<br />Daily Activity: 1140 (26%)<br />Mail: 960
-      (21%)<br />Events: 800 (18%)<br />Adventure: 237 (5%)<br />Quests: 60
+      Daily Activity: 1200 (27%)<br />Spiral Abyss: 1200 (26%)<br />Events: 950
+      (20%)<br />Mail: 960 (20%)<br />Adventure: 237 (5%)<br />Quests: 60
       (1%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
