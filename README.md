@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      5 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -397,16 +397,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (13)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
@@ -416,7 +406,17 @@
         ,
         height="18"
       />
-      Bennett (13)<br />
+      Bennett (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (13)<br />
     </td>
   </tr>
   <tr>
@@ -479,17 +479,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4608 (rate -20)</td>
+    <td>4758 (rate -17)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3799655 (rate -39)</td>
+    <td>3903028 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1200 (27%)<br />Spiral Abyss: 1200 (26%)<br />Events: 950
-      (20%)<br />Mail: 960 (20%)<br />Adventure: 237 (5%)<br />Quests: 60
+      Daily Activity: 1260 (27%)<br />Spiral Abyss: 1200 (26%)<br />Events: 1040
+      (21%)<br />Mail: 960 (20%)<br />Adventure: 237 (4%)<br />Quests: 60
       (1%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
