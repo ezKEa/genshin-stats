@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      5 x Adventurer's Experience
+      5 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>930</td>
+    <td>932</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -397,26 +397,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Hu Tao (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+      Furina (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
         ,
         height="18"
       />
-      Bennett (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+      Navia (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Jean (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+      Yelan (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Xiangling (13)<br />
+      Zhongli (13)<br />
     </td>
   </tr>
   <tr>
@@ -479,17 +479,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4758 (rate -17)</td>
+    <td>4818 (rate -16)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3903028 (rate -38)</td>
+    <td>3956419 (rate -37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1260 (27%)<br />Spiral Abyss: 1200 (26%)<br />Events: 1040
-      (21%)<br />Mail: 960 (20%)<br />Adventure: 237 (4%)<br />Quests: 60
+      Daily Activity: 1320 (28%)<br />Spiral Abyss: 1200 (25%)<br />Events: 1040
+      (22%)<br />Mail: 960 (19%)<br />Adventure: 237 (4%)<br />Quests: 60
       (1%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
