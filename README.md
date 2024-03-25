@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
         width="120px"
       />
       <br />
-      5000 x Mora
+      3 x Hero's Wit
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>932</td>
+    <td>933</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2080</td>
+    <td>2081</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -210,7 +210,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>39.6%</td>
+          <td>40.9%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -396,27 +396,23 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
+      <img src="https://enka.network/ui/UI_AvatarIcon_Qin.png" , height="18" />
+      Jean (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (13)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (13)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Navia.png"
         ,
         height="18"
       />
-      Navia (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (13)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (13)<br />
+      Navia (13)<br />
     </td>
   </tr>
   <tr>
@@ -479,17 +475,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4880 (rate -15)</td>
+    <td>4973 (rate -13)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4013111 (rate -36)</td>
+    <td>4096828 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (29%)<br />Spiral Abyss: 1200 (25%)<br />Events: 1040
-      (21%)<br />Mail: 960 (19%)<br />Adventure: 239 (4%)<br />Quests: 60
+      Daily Activity: 1440 (29%)<br />Spiral Abyss: 1200 (25%)<br />Events: 1040
+      (20%)<br />Mail: 960 (19%)<br />Adventure: 272 (5%)<br />Quests: 60
       (1%)<br />Other: 1 (1%)<br />
     </td>
   </tr>
