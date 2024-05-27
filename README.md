@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
         width="120px"
       />
       <br />
-      20 x Primogem
+      3 x Sweet Madame
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>828</td>
+    <td>834</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>949</td>
+    <td>950</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>422</td>
+    <td>424</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -67,23 +67,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2087</td>
+    <td>2089</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1678</td>
+    <td>1687</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>511</td>
+    <td>514</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>191</td>
+    <td>192</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>180</td>
+    <td>181</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -96,6 +96,7 @@
   <tr>
     <th>Chenyu Vale: Upper Vale</th>
     <th>Chenyu Vale: Southern Mountain</th>
+    <th>Mt. Laixin</th>
     <th>Fontaine</th>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
@@ -108,6 +109,14 @@
     <th>Chenyu Vale</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -210,7 +219,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>45.5%</td>
+          <td>51.1%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -222,7 +231,19 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>47.2%</td>
+          <td>51.3%</td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>9.3%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -397,16 +418,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
       Furina (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
         ,
         height="18"
@@ -479,18 +500,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1390 (rate 1)</td>
+    <td>3405 (rate 148)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1246319 (rate 12)</td>
+    <td>3236472 (rate 191)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (44%)<br />Mail: 600 (43%)<br />Events: 120 (8%)<br />Daily
-      Activity: 60 (4%)<br />Adventure: 10 (1%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 1805 (54%)<br />Mail: 620 (19%)<br />Spiral Abyss: 600 (17%)<br />Adventure:
+      149 (4%)<br />Daily Activity: 120 (3%)<br />Quests: 40 (1%)<br />Other: 71
+      (2%)<br />
     </td>
   </tr>
 </table>
