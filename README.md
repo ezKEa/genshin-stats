@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -418,11 +418,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      Furina (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -437,7 +432,12 @@
         ,
         height="18"
       />
-      Hu Tao (12)<br />
+      Hu Tao (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      Furina (12)<br />
     </td>
   </tr>
   <tr>
@@ -500,18 +500,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3405 (rate 148)</td>
+    <td>3704 (rate 170)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3236472 (rate 191)</td>
+    <td>3627861 (rate 226)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1805 (54%)<br />Mail: 620 (19%)<br />Spiral Abyss: 600 (17%)<br />Adventure:
-      149 (4%)<br />Daily Activity: 120 (3%)<br />Quests: 40 (1%)<br />Other: 71
-      (2%)<br />
+      Events: 1905 (52%)<br />Spiral Abyss: 600 (17%)<br />Mail: 620 (17%)<br />Adventure:
+      218 (6%)<br />Daily Activity: 180 (5%)<br />Quests: 110 (2%)<br />Other:
+      71 (1%)<br />
     </td>
   </tr>
 </table>
@@ -3427,7 +3427,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
