@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
         width="120px"
       />
       <br />
-      2 x Adventurer's Experience
+      8000 x Mora
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>834</td>
+    <td>845</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>950</td>
+    <td>952</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>424</td>
+    <td>429</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -67,23 +67,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>2089</td>
+    <td>2118</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1687</td>
+    <td>1725</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>514</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>192</td>
+    <td>197</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>181</td>
+    <td>186</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -219,7 +219,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.1%</td>
+          <td>67.5%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -231,7 +231,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.3%</td>
+          <td>84.3%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -243,7 +243,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>9.3%</td>
+          <td>72.0%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -339,7 +339,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>95.0%</td>
+          <td>95.1%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -367,7 +367,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td>0</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -418,6 +418,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+        ,
+        height="18"
+      />
+      Hu Tao (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -428,11 +433,6 @@
         height="18"
       />
       Jean (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -500,18 +500,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3704 (rate 170)</td>
+    <td>4466 (rate 225)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3627861 (rate 226)</td>
+    <td>4485751 (rate 303)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1905 (52%)<br />Spiral Abyss: 600 (17%)<br />Mail: 620 (17%)<br />Adventure:
-      218 (6%)<br />Daily Activity: 180 (5%)<br />Quests: 110 (2%)<br />Other:
-      71 (1%)<br />
+      Events: 2010 (46%)<br />Adventure: 695 (16%)<br />Spiral Abyss: 600
+      (14%)<br />Mail: 620 (13%)<br />Daily Activity: 240 (5%)<br />Quests: 230
+      (5%)<br />Other: 71 (1%)<br />
     </td>
   </tr>
 </table>
