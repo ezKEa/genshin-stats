@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -428,16 +428,16 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Furina (12)<br />
+      Furina (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br />
     </td>
   </tr>
   <tr>
@@ -500,18 +500,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4466 (rate 225)</td>
+    <td>4909 (rate 258)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4485751 (rate 303)</td>
+    <td>4683826 (rate 321)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2010 (46%)<br />Adventure: 695 (16%)<br />Spiral Abyss: 600
-      (14%)<br />Mail: 620 (13%)<br />Daily Activity: 240 (5%)<br />Quests: 230
-      (5%)<br />Other: 71 (1%)<br />
+      Events: 2110 (43%)<br />Adventure: 921 (19%)<br />Spiral Abyss: 600
+      (13%)<br />Mail: 620 (13%)<br />Daily Activity: 300 (6%)<br />Quests: 280
+      (5%)<br />Other: 78 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1245,7 +1245,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/05098c7066650ef84e24918ed4bda922.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/bb5e9910bb4ccdd2bb3784885eb4c882.png"
         />
       </p>
     </td>
@@ -1290,19 +1290,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Apprentice's Notes</td>
+          <td>The Widsith</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1961,7 +1961,7 @@
     <td>
       <p align="center">
         <img
-          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/bb5e9910bb4ccdd2bb3784885eb4c882.png"
+          src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_uca48f/05098c7066650ef84e24918ed4bda922.png"
         />
       </p>
     </td>
@@ -2006,19 +2006,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>The Widsith</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
