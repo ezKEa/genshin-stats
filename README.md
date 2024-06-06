@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      3 x Sweet Madame
+      2 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>863</td>
+    <td>867</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>956</td>
+    <td>958</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>450</td>
+    <td>452</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td>Hydroculi</td>
-    <td>254</td>
+    <td>258</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1798</td>
+    <td>1800</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -228,7 +228,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>84.7%</td>
+          <td>91.3%</td>
         </tr>
         <tr>
           <td>TypeUnknow</td>
@@ -438,27 +438,23 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+      <img src="https://enka.network/ui/UI_AvatarIcon_Qin.png" , height="18" />
+      Jean (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
         ,
         height="18"
       />
-      Hu Tao (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+      Xiangling (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+      Furina (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Heizo.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
-        ,
-        height="18"
-      />
-      Jean (12)<br />
+      Shikanoin Heizou (12)<br />
     </td>
   </tr>
   <tr>
@@ -521,7 +517,7 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1935 (rate -66)</td>
+    <td>1995 (rate -65)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
@@ -530,7 +526,7 @@
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 620 (33%)<br />Spiral Abyss: 600 (31%)<br />Adventure: 435 (22%)<br />Daily
+      Mail: 680 (35%)<br />Spiral Abyss: 600 (30%)<br />Adventure: 435 (21%)<br />Daily
       Activity: 120 (6%)<br />Quests: 120 (6%)<br />Events: 40 (2%)<br />Other:
       0 (0%)<br />
     </td>
