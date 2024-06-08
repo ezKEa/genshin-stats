@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
         width="120px"
       />
       <br />
-      8000 x Mora
+      3 x Adventurer's Experience
     </td>
   </tr>
 </table>
@@ -438,23 +438,27 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Qin.png" , height="18" />
-      Jean (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Xiangling (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+      Yelan (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Furina (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Heizo.png"
+      Hu Tao (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Shikanoin Heizou (12)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
