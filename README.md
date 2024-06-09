@@ -12,17 +12,17 @@
   </tr>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
     <td>
       <img
-        src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+        src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
         width="120px"
       />
       <br />
-      3 x Adventurer's Experience
+      3 x Fine Enhancement Ore
     </td>
   </tr>
 </table>
@@ -439,16 +439,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (12)<br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -458,7 +448,17 @@
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Bennett (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (12)<br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Xiangling.png"
+        ,
+        height="18"
+      />
+      Xiangling (12)<br />
     </td>
   </tr>
   <tr>
